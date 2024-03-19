@@ -11,12 +11,15 @@
 
 <h2>Certifications</h2>
 
-- <b>title</b>
-  - []()
-- <b>title</b>
-  - []()
-- <b>title</b>
-  - []()
+- <b>Google Cybersecurity Certificate</b>
+  - [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/SP8CUMT37QPG)
+  - [Credly Verification](https://www.credly.com/badges/c5dc51ac-beae-45ef-b27b-a060075191e3/print)
+
+<h2>Education</h2>
+
+- <b>Kennesaw State University</b>
+  - [MS Cybersecurity(Expected Graduation 2026)](https://www.kennesaw.edu/degrees-programs/master-degrees/cybersecurity.php)
+
 
 <h2>Connect with me</h2>
 
