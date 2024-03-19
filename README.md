@@ -1,6 +1,6 @@
 <h1>Hi, I'm Steven!</h1>
 
-<h2>👨‍💻 Cybersecurity Projects</h2>
+<h2>Cybersecurity Projects</h2>
 
 - <b>title</b>
   - []()
