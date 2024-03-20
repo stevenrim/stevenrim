@@ -2,8 +2,8 @@
 
 <h2>Cybersecurity Projects</h2>
 
-- <b>title</b>
-  - []()
+- <b>Building a SOC + Honeynet in Azure (Live Traffic)</b>
+  - [Building a SOC + Honeynet in Azure (Live Traffic)]()
 - <b>title</b>
   - []()
 - <b>title</b>
