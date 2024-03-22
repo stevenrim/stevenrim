@@ -26,6 +26,6 @@
 [<img align="left" alt="StevenRim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="StevenRim | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/9.purp0s3/
+[instagram]: 
 [linkedin]: https://linkedin.com/in/stevenrim
 
