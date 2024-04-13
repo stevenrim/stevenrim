@@ -1,4 +1,4 @@
-<h1>Hi, I'm Steven!</h1>
+<h1>Hi, my name is Steven!</h1>
 
 <h2>Cybersecurity Projects</h2>
 
