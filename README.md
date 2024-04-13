@@ -19,7 +19,7 @@ I am exceedingly curious about cybersecurity; constantly seeking to understand t
 <h2>Education</h2>
 
 - <b>Kennesaw State University</b>
-  - [MS Cybersecurity(Expected Graduation 2026)](https://www.kennesaw.edu/degrees-programs/master-degrees/cybersecurity.php)
+  - [MS Cybersecurity(Expected Graduation 2025)](https://www.kennesaw.edu/degrees-programs/master-degrees/cybersecurity.php)
 
 
 <h2>Connect with me</h2>
