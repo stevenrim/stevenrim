@@ -1,4 +1,5 @@
 <h1>Hi, my name is Steven!</h1>
+I am exceedingly curious about cybersecurity, constantly seeking to understand threats, vulnerabilities, exploits, and risk management.  
 
 <h2>Cybersecurity Projects</h2>
 
