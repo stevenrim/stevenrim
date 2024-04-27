@@ -3,10 +3,8 @@ I am exceedingly curious about cybersecurity; constantly seeking to understand t
 
 <h2>Cybersecurity Projects</h2>
 
-- <b>Building a SOC + Honeynet in Azure (Live Traffic)</b>
-  - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/stevenrim/honeynet)
-- <b>title</b>
-  - []()
+- <b>[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/stevenrim/honeynet)</b>
+- <b>[Active Directory Home Lab w/VirtualBox](https://github.com/stevenrim/activedirectory)</b>
 - <b>title</b>
   - []()
 
