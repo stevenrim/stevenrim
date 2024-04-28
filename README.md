@@ -5,8 +5,8 @@ I am exceedingly curious about cybersecurity; constantly seeking to understand t
 
 - <b>[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/stevenrim/honeynet)</b>
 - <b>[Active Directory Home Lab w/VirtualBox](https://github.com/stevenrim/activedirectory)</b>
-- <b>title</b>
-  - []()
+- <b>Vulnerability Management Lab w/Nessus</b>
+- <b>Kali Linux on Raspberry Pi 5</b>
 
 <h2>Certifications</h2>
 
