@@ -4,7 +4,7 @@ I am exceedingly curious about cybersecurity; constantly seeking to understand t
 <h2>Cybersecurity Projects</h2>
 
 - <b>[SOC + Honeynet w/Azure (Live Traffic)](https://github.com/stevenrim/honeynet)</b>
-- <b>[Active Directory Home Lab w/VirtualBox](https://github.com/stevenrim/activedirectory)</b>
+- <b>[Active Directory Home Lab w/VirtualBox]()</b>
 - <b>Vulnerability Management Lab w/Nessus</b>
 - <b>Kali Linux on Raspberry Pi 5</b>
 
@@ -12,7 +12,7 @@ I am exceedingly curious about cybersecurity; constantly seeking to understand t
 
 - <b>[Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/SP8CUMT37QPG)</b>
   - [Credly Verification](https://www.credly.com/badges/c5dc51ac-beae-45ef-b27b-a060075191e3/print)
-- <b>[Cybersecurity Masterclass:SOC Analyst](https://app.kajabi.com/certificates/72ada0d2)</b>
+- <b>[Cybersecurity Masterclass: SOC Analyst](https://app.kajabi.com/certificates/72ada0d2)</b>
 
 
 <h2>Connect with me</h2>
