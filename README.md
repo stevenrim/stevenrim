@@ -14,6 +14,9 @@ I am exceedingly curious about cybersecurity; constantly seeking to understand t
   - [Credly Verification](https://www.credly.com/badges/c5dc51ac-beae-45ef-b27b-a060075191e3/print)
 - <b>[Cybersecurity Masterclass: SOC Analyst](https://app.kajabi.com/certificates/72ada0d2)</b>
 
+<h2>Security+ SY0-701: Study With Me!</h2>
+
+- <b>[My Notes]</b>
 
 <h2>Connect with me</h2>
 
