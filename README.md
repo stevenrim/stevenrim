@@ -7,6 +7,7 @@ I am exceedingly curious about cybersecurity; constantly seeking to understand t
 - <b>[Active Directory Home Lab w/VirtualBox]()</b>
 - <b>Vulnerability Management Lab w/Nessus</b>
 - <b>Kali Linux on Raspberry Pi 5</b>
+- <b>OWASP Juice Shop</b>
 
 <h2>Certifications</h2>
 
