@@ -5,9 +5,9 @@ I am exceedingly curious about cybersecurity; constantly seeking to understand t
 
 - <b>[SOC + Honeynet w/Azure (Live Traffic)](https://github.com/stevenrim/honeynet)</b>
 - <b>[Active Directory Home Lab w/VirtualBox]()</b>
-- <b>[Vulnerability Management Lab w/Nessus]</b>
-- <b>[Kali Linux on Raspberry Pi 5]</b>
-- <b>[OWASP Juice Shop: Exploiting Vulnerabilities]</b>
+- <b>[Vulnerability Management Lab w/Nessus]()</b>
+- <b>[Kali Linux on Raspberry Pi 5]()</b>
+- <b>[OWASP Juice Shop: Exploiting Vulnerabilities]()</b>
 
 <h2>Certifications</h2>
 
