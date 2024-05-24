@@ -10,7 +10,7 @@ I am exceedingly curious about cybersecurity; constantly seeking to understand t
 - <b>[Vulnerability Management Lab w/Nessus]()</b>
     - Installed and configured Nessus Essentials to perform credentialed vulnerability scans. Created a vulnerable Windows 10 VM on VirtualBox with outdated software and disabled Firewall. Performed unauthenticated and credentialed scans using Nessus against vulnerable Windows 10 VM with outdated software. Analyzed results, identified vulnerabilities, remediated vulnerabilities, and verified successful remediation through subsequent scans.
 - <b>[Analyzing Malicious Activity w/Sysmon and Event Logs]()</b>
-    - Simulated DLL Hijack, C# Injection, and credtial dumping attacks on HTB Windows VM. Used Sysmon, Windows Event Viewer, Process Hacker, SilkETW, and XML scripting to identify, trace, and analyze malicious events effectively. 
+    - Simulated DLL Hijack, C# Injection, and credential dumping attacks on HTB Windows VM. Used Sysmon, Windows Event Viewer, Process Hacker, SilkETW, and XML scripting to identify, trace, and analyze malicious events effectively. 
     - 
   - []()
   - []()
