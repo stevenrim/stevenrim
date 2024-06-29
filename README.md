@@ -13,12 +13,7 @@ I am exceedingly curious about cybersecurity; constantly seeking to understand t
     - Installed and configured Nessus Essentials to perform credentialed vulnerability scans. Created a vulnerable Windows 10 VM on VirtualBox with outdated software and disabled Firewall. Performed unauthenticated and credentialed scans using Nessus against vulnerable Windows 10 VM with outdated software. Analyzed results, identified vulnerabilities, remediated vulnerabilities, and verified successful remediation through subsequent scans.
 - <b>[Analyzing Malicious Activity w/Sysmon and Event Logs]()</b>
     - Simulated DLL Hijack, C# Injection, and credential dumping attacks on HTB Windows VM. Used Sysmon, Windows Event Viewer, Process Hacker, SilkETW, and XML scripting to identify, trace, and analyze malicious events effectively. 
-    - 
-  - []()
-  - []()
-  - []()
-  - []()
-  - []()
+
 
 <h2>Certifications</h2>
 
@@ -27,7 +22,6 @@ I am exceedingly curious about cybersecurity; constantly seeking to understand t
 - <b>[Cybersecurity Masterclass: SOC Analyst](https://app.kajabi.com/certificates/72ada0d2)</b>
 - <b>[HackTheBox: Certified Defensive Security Analyst(in progress)]()</b>
 
-<h2>Security+ SY0-701: Study With Me!</h2>
 
 - <b>[My Notes]</b>
 
