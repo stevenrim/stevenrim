@@ -3,6 +3,8 @@ I am exceedingly curious about cybersecurity; constantly seeking to understand t
 
 <h2>Cybersecurity Projects</h2>
 
+- <b>[Installing & Configuring AlienVault OSSIM](https://medium.com/@stevenrim/my-experience-setting-up-alienvault-ossim-2721c2cc6e6f)</b>
+    -  Initial install and configuration of AlienVault OSSIM through VMware.
 - <b>[SOC + Honeynet w/Azure (Live Traffic)](https://github.com/stevenrim/honeynet)</b>
     - Constructed a honeynet on Azure to ingest logs from resources into a Log Analytics workspace. Used Kusto Query Language to query logs. Utilized Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. Measured the insecure environment, applied security controls, measured the secure environment, and analyzed results. 
 - <b>[Active Directory Home Lab w/VirtualBox]()</b>
