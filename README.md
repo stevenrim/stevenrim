@@ -2,7 +2,8 @@
 
 <h2>Introduction</h2>
 
-Hi! I am exceedingly curious about cybersecurity; constantly seeking to understand threats, vulnerabilities, exploits, and risk management.  
+Hi! I am exceedingly curious about cybersecurity; constantly seeking to understand threats, vulnerabilities, exploits, and risk management. Here, I highlight my hands-on projects, the certifications I am currently pursuing or have already obtained, and my overall journey transitioning into the field of cybersecurity.
+
 
 <h2>Cybersecurity Projects</h2>
 
@@ -18,12 +19,19 @@ Hi! I am exceedingly curious about cybersecurity; constantly seeking to understa
     - Simulated DLL Hijack, C# Injection, and credential dumping attacks on HTB Windows VM. Used Sysmon, Windows Event Viewer, Process Hacker, SilkETW, and XML scripting to identify, trace, and analyze malicious events effectively. 
 
 
-<h2>Certifications</h2>
+<h2>Completed Certifications</h2>
 
-[<img align="left" alt="" width="80px" src="https://academy.hackthebox.com/storage/exam_badges/Ub2I1qAN1BOVsK2de0ujslt4oGjhceaZeWRRicge.png" />](https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst)
 [<img align="left" alt="" width="90px" src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" />](https://www.credly.com/badges/c5dc51ac-beae-45ef-b27b-a060075191e3/)
 [<img align="left" alt="" width="80px" src="https://i.imgur.com/UyhqpF5.png" />](https://app.kajabi.com/certificates/72ada0d2)
+<br>
+<br>
+<br>
+<br>
 
+<h2>Certifications Expected October 2024</h2>
+
+[<img align="left" alt="" width="80px" src="https://academy.hackthebox.com/storage/exam_badges/Ub2I1qAN1BOVsK2de0ujslt4oGjhceaZeWRRicge.png" />](https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst)
+[<img align="left" alt="" width="80px" src="https://images.credly.com/images/446e08ae-bbb5-4648-b85d-24b9a939eb8d/CompTIA_Security_2B.png" />](https://www.comptia.org/certifications/security)
 
 
 
