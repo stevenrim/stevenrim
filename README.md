@@ -2,7 +2,7 @@
 
 <h2>Introduction</h2>
 
-Hi! I am exceedingly curious about cybersecurity; constantly seeking to understand threats, vulnerabilities, exploits, and risk management. Here, I highlight my hands-on projects, the certifications I am currently pursuing or have already obtained, and my overall journey transitioning into the field of cybersecurity.
+Hi! I am exceedingly curious about cybersecurity; constantly seeking to understand threats, vulnerabilities, exploits, and risk management. Here, I highlight my hands-on projects and the certifications I am currently pursuing or have already obtained as I transition into the field of cybersecurity. Thank you for visiting!
 
 
 <h2>Cybersecurity Projects</h2>
