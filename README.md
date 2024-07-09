@@ -1,8 +1,17 @@
-<h1>Steven aka 9purp0s3</h1>
+<h1>Steven's Journey</h1>
 
-<h2>Introduction</h2>
+Greetings, cyber adventurers! 
 
-Hi! I am exceedingly curious about cybersecurity; constantly seeking to understand threats, vulnerabilities, exploits, and risk management. Here, I highlight my hands-on projects and the certifications I am currently pursuing or have already obtained as I transition into the field of cybersecurity. Thank you for visiting!
+I’m an intrepid explorer transitioning from the realm of full-cycle recruiting into the fascinating world of information security. Why the switch, you ask? Because I’m driven by an insatiable curiosity and a desire to protect systems from the dark forces lurking the digital shadows.
+
+This is where I'll be chronicling my thrilling journey in understanding threats, vulnerabilities, and exploits. Here, you'll find detailed showcases of my hands-on projects, sparked by my ongoing studies in a cybersecurity degree program, various courses, certificate programs, and the treasure trove of tutorials I find on YouTube made by amazing people. Whether it’s unraveling the mysteries of networking, defending systems, exploiting vulnerabilities, or playing with new tech... I'm eager to learn.
+
+But this isn’t just about me. It’s about inspiring you, the reader. Maybe you’re an enthusiast, a budding cyberwarrior, or even a future employer. Whoever you are, know this: every click, every byte, every firewall breach tells a story. And mine is just beginning. Every journey is unique, and I hope mine adds a spark of inspiration and a dash of insight to your own adventure.
+
+Yours truly,
+
+Steven aka 9purp0s3
+
 
 
 <h2>Cybersecurity Projects</h2>
