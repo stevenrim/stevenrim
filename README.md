@@ -1,4 +1,4 @@
-<h1>Steven's Journey</h1>
+<h1>Aspiring Infosec Professional</h1>
 
 Greetings, cyber adventurers! 
 
