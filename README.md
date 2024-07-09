@@ -28,11 +28,11 @@ Hi! I am exceedingly curious about cybersecurity; constantly seeking to understa
 <br>
 <br>
 
-<h2>Certifications Expected October 2024</h2>
+<h2>Certifications Expected 2024</h2>
 
+[<img align="left" alt="" width="80px" src="https://cloudsecurityalliance.org/assets/education/ccsk/credly_badge-ed17d466458785c409ac00edc33ffbc8a95ef56aebbd36e969441654a29adc1d.png" />](https://cloudsecurityalliance.org/education/ccsk)
 [<img align="left" alt="" width="80px" src="https://academy.hackthebox.com/storage/exam_badges/Ub2I1qAN1BOVsK2de0ujslt4oGjhceaZeWRRicge.png" />](https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst)
 [<img align="left" alt="" width="80px" src="https://images.credly.com/images/446e08ae-bbb5-4648-b85d-24b9a939eb8d/CompTIA_Security_2B.png" />](https://www.comptia.org/certifications/security)
-
 
 
 
