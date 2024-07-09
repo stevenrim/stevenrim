@@ -26,7 +26,7 @@ Steven aka 9purp0s3
     - Simulated DLL Hijack, C# Injection, and credential dumping attacks on HTB Windows VM. Used Sysmon, Windows Event Viewer, Process Hacker, SilkETW, and XML scripting to identify, trace, and analyze malicious events effectively. 
 
 
-<h2>Networking</h2>
+<h2>Affliations</h2>
 
 [<img align="left" alt="" width="80px" src="https://marketplace.6clicks.com/media/catalog/product/cache/23c0cd070d89dc1f3b0c34a66e2aee6b/o/w/owasp-logo-square.png" />](https://owasp.org/)
 <br>
@@ -43,7 +43,7 @@ Steven aka 9purp0s3
 <br>
 <br>
 
-<h2>Certifications Expected 2024</h2>
+<h2>Certifications Expected in 2024</h2>
 
 [<img align="left" alt="" width="80px" src="https://cloudsecurityalliance.org/assets/education/ccsk/credly_badge-ed17d466458785c409ac00edc33ffbc8a95ef56aebbd36e969441654a29adc1d.png" />](https://cloudsecurityalliance.org/education/ccsk)
 [<img align="left" alt="" width="80px" src="https://academy.hackthebox.com/storage/exam_badges/Ub2I1qAN1BOVsK2de0ujslt4oGjhceaZeWRRicge.png" />](https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst)
