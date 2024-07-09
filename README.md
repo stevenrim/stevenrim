@@ -27,7 +27,7 @@ Hi! I am exceedingly curious about cybersecurity; constantly seeking to understa
 <br>
 <br>
 
-<h2>Completed Certifications</h2>
+<h2>Completed Certificates</h2>
 
 [<img align="left" alt="" width="90px" src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" />](https://www.credly.com/badges/c5dc51ac-beae-45ef-b27b-a060075191e3/)
 [<img align="left" alt="" width="80px" src="https://i.imgur.com/UyhqpF5.png" />](https://app.kajabi.com/certificates/72ada0d2)
