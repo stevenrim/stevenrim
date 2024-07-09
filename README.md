@@ -1,5 +1,8 @@
-<h1>Hi, my name is Steven!</h1>
-I am exceedingly curious about cybersecurity; constantly seeking to understand threats, vulnerabilities, exploits, and risk management.  
+<h1>Steven aka 9purp0s3</h1>
+
+<h2>Introduction</h2>
+
+Hi! I am exceedingly curious about cybersecurity; constantly seeking to understand threats, vulnerabilities, exploits, and risk management.  
 
 <h2>Cybersecurity Projects</h2>
 
@@ -17,23 +20,21 @@ I am exceedingly curious about cybersecurity; constantly seeking to understand t
 
 <h2>Certifications</h2>
 
-- <b>[Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/SP8CUMT37QPG)</b>
-  - [Credly Verification](https://www.credly.com/badges/c5dc51ac-beae-45ef-b27b-a060075191e3/print)
-- <b>[Cybersecurity Masterclass: SOC Analyst](https://app.kajabi.com/certificates/72ada0d2)</b>
-- <b>[HackTheBox: Certified Defensive Security Analyst(in progress)]()</b>
+[<img align="left" alt="" width="80px" src="https://academy.hackthebox.com/storage/exam_badges/Ub2I1qAN1BOVsK2de0ujslt4oGjhceaZeWRRicge.png" />](https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst)
+[<img align="left" alt="" width="90px" src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" />](https://www.credly.com/badges/c5dc51ac-beae-45ef-b27b-a060075191e3/)
+[<img align="left" alt="" width="80px" src="https://i.imgur.com/UyhqpF5.png" />](https://app.kajabi.com/certificates/72ada0d2)
 
 
-- <b>[My Notes]</b>
 
-<h2>Connect with me</h2>
 
-[<img align="left" alt="StevenRim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="StevenRim | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: 
-[linkedin]: https://linkedin.com/in/stevenrim
 
-<h2>Badges</h2>
+<br>
+<br>
+<br>
+<br>
+
+<h2>HTB Badges</h2>
 
 [<img align="left" alt="" width="40px" src="https://academy.hackthebox.com/storage/badges/academician.png" />](https://academy.hackthebox.com/achievement/badge/3012c379-0e6b-11ef-b18d-bea50ffe6cb4)
 [<img align="left" alt="" width="40px" src="https://academy.hackthebox.com/storage/badges/abc6e5a362f8adad812c5cfa87783bd9/logo.png" />](https://academy.hackthebox.com/achievement/badge/fb4ad0bf-0ff8-11ef-b18d-bea50ffe6cb4)
