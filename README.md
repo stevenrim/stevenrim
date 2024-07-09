@@ -33,3 +33,11 @@ I am exceedingly curious about cybersecurity; constantly seeking to understand t
 [instagram]: 
 [linkedin]: https://linkedin.com/in/stevenrim
 
+<h2>Badges</h2>
+
+[<img align="left" alt="" width="40px" src="https://academy.hackthebox.com/storage/badges/academician.png" />](https://academy.hackthebox.com/achievement/badge/3012c379-0e6b-11ef-b18d-bea50ffe6cb4)
+[<img align="left" alt="" width="40px" src="https://academy.hackthebox.com/storage/badges/abc6e5a362f8adad812c5cfa87783bd9/logo.png" />](https://academy.hackthebox.com/achievement/badge/fb4ad0bf-0ff8-11ef-b18d-bea50ffe6cb4)
+[<img align="left" alt="" width="40px" src="https://academy.hackthebox.com/storage/badges/4a11a1a1d810967184694662d629de2d/logo.png" />](https://academy.hackthebox.com/achievement/badge/50ff53be-0f94-11ef-b18d-bea50ffe6cb4)
+[<img align="left" alt="" width="40px" src="https://academy.hackthebox.com/storage/badges/eb072974e828f87af924bce557b2c614/logo.png" />](https://academy.hackthebox.com/achievement/badge/b4cdf74f-10b6-11ef-b18d-bea50ffe6cb4)
+[<img align="left" alt="" width="40px" src="https://academy.hackthebox.com/storage/badges/d7343c8afb32e9feee0fed1fc2acd378/logo.png" />](https://academy.hackthebox.com/achievement/badge/aeb9a03e-114b-11ef-b18d-bea50ffe6cb4)
+[<img align="left" alt="" width="40px" src="https://academy.hackthebox.com/storage/badges/f284df82c57336019410ed5f68ace295/logo.png" />](https://academy.hackthebox.com/achievement/badge/0db968b9-15e9-11ef-b18d-bea50ffe6cb4)
