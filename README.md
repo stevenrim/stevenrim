@@ -58,6 +58,16 @@ Steven aka 9purp0s3
 <br>
 <br>
 
+<h2>Education</h2>
+
+[<img align="left" alt="" width="80px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d9/cf/35/d9cf3530-d272-b00f-9481-791600fabed3/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" />]()
+[<img align="left" alt="" width="80px" src="https://www.seedglobaleducation.com/wp-content/uploads/2023/07/Gies-logo-1024x1024.jpg" />]()
+[<img align="left" alt="" width="80px" src="https://imageio.forbes.com/specials-images/imageserve/5d517acf68cb0a000916ae62/0x0.jpg?format=jpg&crop=416,416,x0,y0,safe&height=200&width=200&fit=bounds" />]()
+<br>
+<br>
+<br>
+<br>
+
 <h2>HTB Badges</h2>
 
 [<img align="left" alt="" width="40px" src="https://academy.hackthebox.com/storage/badges/academician.png" />](https://academy.hackthebox.com/achievement/badge/3012c379-0e6b-11ef-b18d-bea50ffe6cb4)
