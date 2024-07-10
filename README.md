@@ -4,7 +4,7 @@ Greetings, cyber adventurers!
 
 I’m an intrepid explorer transitioning from the realm of full-cycle recruiting into the fascinating world of information security. Why the switch, you ask? Because I’m driven by an insatiable curiosity and a desire to protect systems from the dark forces lurking the digital shadows.
 
-This is where I'll be chronicling my thrilling journey in understanding threats, vulnerabilities, and exploits. Here, you'll find detailed showcases of my hands-on projects, sparked by my ongoing studies in a cybersecurity degree program, various courses, certificate programs, and the treasure trove of tutorials I find on YouTube made by amazing people. Whether it’s unraveling the mysteries of networking, defending systems, exploiting vulnerabilities, or playing with new tech... I'm eager to learn.
+This is where I'll be chronicling my thrilling journey in understanding threats, vulnerabilities, and exploits. Here, you'll find detailed showcases of my hands-on projects, sparked by my ongoing studies in a cybersecurity degree program, various courses, certificate programs, and the treasure trove of tutorials I find on YouTube made by amazing people. Whether it’s unraveling the mysteries of networking, defending systems, exploiting vulnerabilities, or playing with new tech...I'm eager to learn the ethical way.
 
 But this isn’t just about me. It’s about inspiring you, the reader. Maybe you’re an enthusiast, a budding cyberwarrior, or even a future employer. Whoever you are, know this: every click, every byte, every firewall breach tells a story. And mine is just beginning. Every journey is unique, and I hope mine adds a spark of inspiration and a dash of insight to your own adventure.
 
@@ -22,9 +22,12 @@ Steven aka 9purp0s3
     - Created and configured two virtual machines on Oracle VirtualBox; Windows Server 2019 and Windows 10. Ran Active Directory on Server 2019. Added 1000 users in Active Directory with PowerShell script. Successfully used client to access the internet through the private network. 
 - <b>[Vulnerability Management Lab w/Nessus]()</b>
     - Installed and configured Nessus Essentials to perform credentialed vulnerability scans. Created a vulnerable Windows 10 VM on VirtualBox with outdated software and disabled Firewall. Performed unauthenticated and credentialed scans using Nessus against vulnerable Windows 10 VM with outdated software. Analyzed results, identified vulnerabilities, remediated vulnerabilities, and verified successful remediation through subsequent scans.
-- <b>[Analyzing Malicious Activity w/Sysmon and Event Logs]()</b>
-    - Simulated DLL Hijack, C# Injection, and credential dumping attacks on HTB Windows VM. Used Sysmon, Windows Event Viewer, Process Hacker, SilkETW, and XML scripting to identify, trace, and analyze malicious events effectively. 
-
+- <b>[How I Digest Long Youtube Videos w/Fabric AI]()</b>
+    - (coming soon)
+- <b>[Projects from HackTheBox SOC Pathway]()</b>
+    - (coming soon)
+- <b>[Ducky Scripts]()</b>
+    - (coming soon) 
 
 <h2>Affliations</h2>
 
