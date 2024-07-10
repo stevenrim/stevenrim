@@ -22,7 +22,7 @@ Steven aka 9purp0s3
     - Created and configured two virtual machines on Oracle VirtualBox; Windows Server 2019 and Windows 10. Ran Active Directory on Server 2019. Added 1000 users in Active Directory with PowerShell script. Successfully used client to access the internet through the private network. 
 - <b>[Vulnerability Management Lab w/Nessus]()</b>
     - Installed and configured Nessus Essentials to perform credentialed vulnerability scans. Created a vulnerable Windows 10 VM on VirtualBox with outdated software and disabled Firewall. Performed unauthenticated and credentialed scans using Nessus against vulnerable Windows 10 VM with outdated software. Analyzed results, identified vulnerabilities, remediated vulnerabilities, and verified successful remediation through subsequent scans.
-- <b>[How I Digest Long Youtube Videos w/Fabric AI]()</b>
+- <b>[How I Take Notes From Youtube w/Fabric AI]()</b>
     - (coming soon)
 - <b>[Projects from HackTheBox SOC Pathway]()</b>
     - (coming soon)
