@@ -2,7 +2,7 @@
 
 Greetings, cyber adventurers! 
 
-I’m an intrepid explorer transitioning from the realm of full-cycle recruiting into the fascinating world of information security. Why the switch, you ask? Because I’m driven by an insatiable curiosity and a desire to protect systems from the dark forces lurking the digital shadows.
+I’m an intrepid explorer transitioning from the realm of full-cycle recruiting into the fascinating world of information security. Why the switch, you ask? Because I’m driven by an insatiable curiosity and a desire to protect systems from the dark forces lurking in the digital shadows.
 
 This is where I'll be chronicling my thrilling journey in understanding threats, vulnerabilities, and exploits. Here, you'll find detailed showcases of my hands-on projects, sparked by my ongoing studies in a cybersecurity degree program, various courses, certificate programs, and the treasure trove of tutorials I find on YouTube made by amazing people. Whether it’s unraveling the mysteries of networking, defending systems, exploiting vulnerabilities, or playing with new tech...I'm eager to learn the ethical way.
 
