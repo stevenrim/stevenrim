@@ -2,11 +2,7 @@
 
 Greetings, cyber adventurers! 
 
-I’m an intrepid explorer transitioning from the realm of full-cycle recruiting into the fascinating world of information security. Why the switch, you ask? Because I’m driven by an insatiable curiosity and a desire to protect systems from the dark forces lurking in the digital shadows.
-
-This is where I'll be chronicling my thrilling journey in understanding threats, vulnerabilities, and exploits. Here, you'll find detailed showcases of my hands-on projects, sparked by my ongoing studies in a cybersecurity degree program, various courses, certificate programs, and the treasure trove of tutorials I find on YouTube made by amazing people. Whether it’s unraveling the mysteries of networking, defending systems, exploiting vulnerabilities, or playing with new tech...I'm eager to learn the ethical way.
-
-But this isn’t just about me. It’s about inspiring you, the reader. Maybe you’re an enthusiast, a budding cyberwarrior, or even a future employer. Whoever you are, know this: every click, every byte, every firewall breach tells a story. And mine is just beginning. Every journey is unique, and I hope mine adds a spark of inspiration and a dash of insight to your own adventure.
+Thank you for taking the time to visit my portfolio as I chronicle my journey to becoming an InfoSec professional. Here, you'll find my ethical hands-on projects from school, online courses, and YouTube tutorials made by amazing people in this industry. This journey isn't just about me—it's also about inspiring you. Whether you're an enthusiast, a budding cyberwarrior, or a future employer, know that every keystroke, every byte, and every analysis tells a story. Mine is just beginning and I hope what I share here adds a spark to your own adventure.
 
 Yours truly,
 
