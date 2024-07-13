@@ -12,7 +12,7 @@ Steven aka 9purp0s3
 
 <h2>Cybersecurity Projects</h2>
 
-- <b>[SOC + Honeynet w/Azure (Live Traffic)](https://github.com/stevenrim/honeynet)</b>
+- <b>[SOC + Honeynet w/Azure (Live Traffic)]()</b>
     - Constructed a honeynet on Azure to ingest logs from resources into a Log Analytics workspace. Used Kusto Query Language to query logs. Utilized Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. Measured the insecure environment, applied security controls, measured the secure environment, and analyzed results. 
 - <b>[Active Directory Home Lab w/VirtualBox]()</b>
     - Created and configured two virtual machines on Oracle VirtualBox; Windows Server 2019 and Windows 10. Ran Active Directory on Server 2019. Added 1000 users in Active Directory with PowerShell script. Successfully used client to access the internet through the private network. 
