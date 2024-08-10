@@ -22,7 +22,7 @@ Steven aka 9purp0s3
 | ![Cyber Defense w/TryHackMe](https://cdn-images-1.medium.com/max/880/1*lmqIzrcfEHN3o9oy4m29jg.png) |<b>[Cyber Defense w/TryHackMe]()</b> - coming soon |
 
 
-
+<br>
 <br>
 
 
@@ -35,3 +35,17 @@ Steven aka 9purp0s3
 | ![Offensive Pentesting w/TryHackMe](https://cdn-images-1.medium.com/max/880/1*E-TUyWC8w_iMTIeOv5w5OA.png) |<b>[Offensive Pentesting w/TryHackMe]()</b> - coming soon |
 | ![Jr. Penetration Tester w/TryHackMe](https://cdn-images-1.medium.com/max/880/1*HkrFgGo92PIE2lZKjUCH0A.png) |<b>[Jr. Penetration Tester w/TryHackMe]()</b> - coming soon |
 | ![Red Teaming w/TryHackMe](https://cdn-images-1.medium.com/max/880/1*fEnuPDfCjTQuCBVGLldBtw.png) |<b>[Red Teaming w/TryHackMe]()</b> - coming soon |
+
+
+<br>
+<br>
+
+
+<h2>Certificates</h2>
+
+|||
+| --- | --- |
+| ![Google](https://miro.medium.com/v2/resize:fit:640/format:webp/1*TI5USTloAwC_kyzlUBMUiQ.png) |<b>[Google Cybersecurity Certificate](https://www.credly.com/badges/c5dc51ac-beae-45ef-b27b-a060075191e3/)</b> - As someone new to cybersecurity, I needed a solid starting point. I did some research and was inspired by these review videos(links to some of the videos I watched are below). My plan was to use it as a launch pad before tackling the Security+ exam and diving into hands-on labs to build my portfolio. This program definitely provided the foundation I needed to move forward. |
+| ![COMPTIASEC](https://certwizard.com/sites/default/files/2020-04/CompTIA-Security-certwizard.png) |<b>[CompTIA Security+]()</b> - Expected 2024 |
+| ![HTBCDSA](https://miro.medium.com/v2/resize:fit:720/format:webp/1*GY2tZO2L_8V1nF0bnhO_pw.png) |<b>[HTB Certified Defensive Security Analyst](https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst)</b> - Expected 2024 |
+
