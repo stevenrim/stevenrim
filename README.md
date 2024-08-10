@@ -10,22 +10,12 @@ Steven aka 9purp0s3
 
 
 
-<h2>Network Security Labs</h2>
+<h2>Defensive Projects</h2>
 
 - <b>[SOC + Honeynet w/Azure (Live Traffic)]()</b>
     - Constructed a honeynet on Azure to ingest logs from resources into a Log Analytics workspace. Used Kusto Query Language to query logs. Utilized Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. Measured the insecure environment, applied security controls, measured the secure environment, and analyzed results. 
 
-<h2>Pentest Labs</h2>
-
-- <b>[SOC + Honeynet w/Azure (Live Traffic)]()</b>
-    - Constructed a honeynet on Azure to ingest logs from resources into a Log Analytics workspace. Used Kusto Query Language to query logs. Utilized Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. Measured the insecure environment, applied security controls, measured the secure environment, and analyzed results. 
-
-<h2>Incident Response Labs</h2>
-
-- <b>[SOC + Honeynet w/Azure (Live Traffic)]()</b>
-    - Constructed a honeynet on Azure to ingest logs from resources into a Log Analytics workspace. Used Kusto Query Language to query logs. Utilized Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. Measured the insecure environment, applied security controls, measured the secure environment, and analyzed results. 
-
-<h2>Web Application Labs</h2>
+<h2>Offensive Projects</h2>
 
 - <b>[SOC + Honeynet w/Azure (Live Traffic)]()</b>
     - Constructed a honeynet on Azure to ingest logs from resources into a Log Analytics workspace. Used Kusto Query Language to query logs. Utilized Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. Measured the insecure environment, applied security controls, measured the secure environment, and analyzed results. 
