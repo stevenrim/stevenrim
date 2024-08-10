@@ -8,17 +8,19 @@ Yours truly,
 
 Steven aka 9purp0s3
 
-<h2>Defensive Projects</h2>
+<h2>Defensive Labs</h2>
 
 - <b>[Cloud Honeynet + SOC in Azure](https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147)</b>
   - Constructed a honeynet on Azure to ingest logs from resources into a Log Analytics workspace. Used Kusto Query Language to query logs. Utilized Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. Measured the insecure environment, applied security controls, measured the secure environment, and analyzed results.
 - <b>[Active Directory Home Lab w/VirtualBox](https://medium.com/@stevenrim/active-directory-home-lab-w-virtualbox-e07932251a9f)</b>
   - For this project, my main goal was to create 1000 users on Active Directory, log in on the client machine, and access the Internet via a private network. I successfully downloaded, installed, and configured two virtual machines and created the users using an automated PowerShell script. I then I successfully logged on as a user and was able to access the internet. Here are the steps I took to complete my project.
 - <b>[SOC Pathway and CDSA Certification w/HackTheBox](https://medium.com/@stevenrim/hackthebox-certified-defensive-security-analyst-cdsa-journey-5bb5fbeaa1d7)</b>
-  - I will be sharing the labs I complete throughout my HTB CDSA and SOC Analyst pathway journey. The HTB CDSA certification evaluates hands-on skills in security analysis, SOC operations, and incident handling. Upon completion, I will be better equipped to detect security incidents, identify detection methods, and create actionable incident reports. This particular project will continually be updated until I complete each section and obtain my HTB CDSA certification. Expected to complete in 2024.
+  - I will be sharing the labs I complete throughout my HTB CDSA and SOC Analyst pathway journey. This particular project will continually be updated until I complete every section. Expected to complete in 2024. 
+- <b>[SOC Level 1 Pathway w/TryHackMe]()</b>
+  - I will be sharing the labs I complete throughout my THM SOC Level 1 pathway. This particular project will continually be updated until I complete every section. Expected to complete in 2024.
 
 
-<h2>Offensive Projects</h2>
+<h2>Offensive Labs</h2>
 
 - <b>[Exploiting Web Application Vulnerabilities w/OWASP Juice Shop](https://medium.com/@stevenrim/owasp-juice-shop-10-2-for-arm64-raspberry-pi-5-68c28c046ccd)</b>
   - Used Docker to access OWASP Juice Shop 10.2 for ARM64/Raspberry Pi. Here, I exploit a series of OWASP Top 10 vulnerabilities with varying levels of difficulty. This particular project will continually be updated until I complete all challenges on this version. So check back often.
