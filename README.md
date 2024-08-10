@@ -10,55 +10,23 @@ Steven aka 9purp0s3
 
 
 
-<h2>Cybersecurity Projects</h2>
+<h2>Network Security Labs</h2>
 
 - <b>[SOC + Honeynet w/Azure (Live Traffic)]()</b>
     - Constructed a honeynet on Azure to ingest logs from resources into a Log Analytics workspace. Used Kusto Query Language to query logs. Utilized Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. Measured the insecure environment, applied security controls, measured the secure environment, and analyzed results. 
-- <b>[Active Directory Home Lab w/VirtualBox]()</b>
-    - Created and configured two virtual machines on Oracle VirtualBox; Windows Server 2019 and Windows 10. Ran Active Directory on Server 2019. Added 1000 users in Active Directory with PowerShell script. Successfully used client to access the internet through the private network. 
-- <b>[Vulnerability Management Lab w/Nessus]()</b>
-    - Installed and configured Nessus Essentials to perform credentialed vulnerability scans. Created a vulnerable Windows 10 VM on VirtualBox with outdated software and disabled Firewall. Performed unauthenticated and credentialed scans using Nessus against vulnerable Windows 10 VM with outdated software. Analyzed results, identified vulnerabilities, remediated vulnerabilities, and verified successful remediation through subsequent scans.
-- <b>[Identifying and Exploiting Web Application Vulnerabilities w/OWASP Juice Shop]()</b>
-    - (coming soon)
-- <b>[Building a Raspberry Pi CM4 Compute Blade Server]()</b>
-    - (coming soon)
-- <b>[Projects from HackTheBox SOC Pathway]()</b>
-    - (coming soon)
-- <b>[Ducky Scripts]()</b>
-    - (coming soon) 
 
-<h2>Cybersecurity Projects</h2>
+<h2>Pentest Labs</h2>
 
 - <b>[SOC + Honeynet w/Azure (Live Traffic)]()</b>
     - Constructed a honeynet on Azure to ingest logs from resources into a Log Analytics workspace. Used Kusto Query Language to query logs. Utilized Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. Measured the insecure environment, applied security controls, measured the secure environment, and analyzed results. 
-- <b>[Active Directory Home Lab w/VirtualBox]()</b>
-    - Created and configured two virtual machines on Oracle VirtualBox; Windows Server 2019 and Windows 10. Ran Active Directory on Server 2019. Added 1000 users in Active Directory with PowerShell script. Successfully used client to access the internet through the private network. 
-- <b>[Vulnerability Management Lab w/Nessus]()</b>
-    - Installed and configured Nessus Essentials to perform credentialed vulnerability scans. Created a vulnerable Windows 10 VM on VirtualBox with outdated software and disabled Firewall. Performed unauthenticated and credentialed scans using Nessus against vulnerable Windows 10 VM with outdated software. Analyzed results, identified vulnerabilities, remediated vulnerabilities, and verified successful remediation through subsequent scans.
-- <b>[Identifying and Exploiting Web Application Vulnerabilities w/OWASP Juice Shop]()</b>
-    - (coming soon)
-- <b>[Building a Raspberry Pi CM4 Compute Blade Server]()</b>
-    - (coming soon)
-- <b>[Projects from HackTheBox SOC Pathway]()</b>
-    - (coming soon)
-- <b>[Ducky Scripts]()</b>
-    - (coming soon) 
 
-<h2>Cybersecurity Projects</h2>
+<h2>Incident Response Labs</h2>
 
 - <b>[SOC + Honeynet w/Azure (Live Traffic)]()</b>
     - Constructed a honeynet on Azure to ingest logs from resources into a Log Analytics workspace. Used Kusto Query Language to query logs. Utilized Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. Measured the insecure environment, applied security controls, measured the secure environment, and analyzed results. 
-- <b>[Active Directory Home Lab w/VirtualBox]()</b>
-    - Created and configured two virtual machines on Oracle VirtualBox; Windows Server 2019 and Windows 10. Ran Active Directory on Server 2019. Added 1000 users in Active Directory with PowerShell script. Successfully used client to access the internet through the private network. 
-- <b>[Vulnerability Management Lab w/Nessus]()</b>
-    - Installed and configured Nessus Essentials to perform credentialed vulnerability scans. Created a vulnerable Windows 10 VM on VirtualBox with outdated software and disabled Firewall. Performed unauthenticated and credentialed scans using Nessus against vulnerable Windows 10 VM with outdated software. Analyzed results, identified vulnerabilities, remediated vulnerabilities, and verified successful remediation through subsequent scans.
-- <b>[Identifying and Exploiting Web Application Vulnerabilities w/OWASP Juice Shop]()</b>
-    - (coming soon)
-- <b>[Building a Raspberry Pi CM4 Compute Blade Server]()</b>
-    - (coming soon)
-- <b>[Projects from HackTheBox SOC Pathway]()</b>
-    - (coming soon)
-- <b>[Ducky Scripts]()</b>
-    - (coming soon) 
 
+<h2>Web Application Labs</h2>
+
+- <b>[SOC + Honeynet w/Azure (Live Traffic)]()</b>
+    - Constructed a honeynet on Azure to ingest logs from resources into a Log Analytics workspace. Used Kusto Query Language to query logs. Utilized Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. Measured the insecure environment, applied security controls, measured the secure environment, and analyzed results. 
 
