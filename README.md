@@ -32,6 +32,6 @@ Steven aka 9purp0s3
 |||
 | --- | --- |
 | ![Exploiting Web Application Vulnerabilities w/OWASP Juice Shop](https://miro.medium.com/v2/resize:fit:786/format:webp/1*Hvqf01m7Mn7YKnfPgfVOeQ.png) |<b>[Exploiting Web Application Vulnerabilities w/OWASP Juice Shop](https://medium.com/@stevenrim/owasp-juice-shop-10-2-for-arm64-raspberry-pi-5-68c28c046ccd)</b> - Used Docker to access OWASP Juice Shop 10.2 for ARM64/Raspberry Pi. Here, I exploit a series of OWASP Top 10 vulnerabilities with varying levels of difficulty. This particular project will continually be updated until I complete all challenges on this version. So check back often. |
-| ![Offensive Pentesting w/TryHackMe](https://cdn-images-1.medium.com/max/880/1*E-TUyWC8w_iMTIeOv5w5OA.png) |<b>[Offensive Pentesting w/TryHackMe](https://medium.com/@stevenrim/owasp-juice-shop-10-2-for-arm64-raspberry-pi-5-68c28c046ccd)</b> - coming soon |
-| ![Jr. Penetration Tester w/TryHackMe](https://cdn-images-1.medium.com/max/880/1*HkrFgGo92PIE2lZKjUCH0A.png) |<b>[Jr. Penetration Tester w/TryHackMe](https://medium.com/@stevenrim/owasp-juice-shop-10-2-for-arm64-raspberry-pi-5-68c28c046ccd)</b> - coming soon |
-| ![Red Teaming w/TryHackMe](https://cdn-images-1.medium.com/max/880/1*fEnuPDfCjTQuCBVGLldBtw.png) |<b>[Red Teaming w/TryHackMe](https://medium.com/@stevenrim/owasp-juice-shop-10-2-for-arm64-raspberry-pi-5-68c28c046ccd)</b> - coming soon |
+| ![Offensive Pentesting w/TryHackMe](https://cdn-images-1.medium.com/max/880/1*E-TUyWC8w_iMTIeOv5w5OA.png) |<b>[Offensive Pentesting w/TryHackMe]()</b> - coming soon |
+| ![Jr. Penetration Tester w/TryHackMe](https://cdn-images-1.medium.com/max/880/1*HkrFgGo92PIE2lZKjUCH0A.png) |<b>[Jr. Penetration Tester w/TryHackMe]()</b> - coming soon |
+| ![Red Teaming w/TryHackMe](https://cdn-images-1.medium.com/max/880/1*fEnuPDfCjTQuCBVGLldBtw.png) |<b>[Red Teaming w/TryHackMe]()</b> - coming soon |
