@@ -23,11 +23,11 @@
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/0" alt="Recent Article 0"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/1">
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/1" alt="Recent Article 1"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/2">
+<a target="_blank" href="https://medium.com/@stevenrim/hackthebox-certified-defensive-security-analyst-cdsa-journey-5bb5fbeaa1d7">
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/2" alt="Recent Article 2"></a>  
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/3">
+<a target="_blank" href="https://medium.com/@stevenrim/owasp-juice-shop-10-2-for-arm64-raspberry-pi-5-68c28c046ccd">
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/3" alt="Recent Article 3"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/4">
+<a target="_blank" href="https://medium.com/@stevenrim/active-directory-home-lab-w-virtualbox-e07932251a9f">
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/4" alt="Recent Article 4"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/5">
+<a target="_blank" href="https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147">
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/5" alt="Recent Article 5"></a> 
