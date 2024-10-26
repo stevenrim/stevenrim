@@ -26,20 +26,8 @@ Steven aka 9purp0s3
 ## TryHackMe Badge
 <img src="https://tryhackme-badges.s3.amazonaws.com/9purp0s3.png" alt="Your Image Badge" />
 
-<a href="https://tryhackme.com/profile/3359463" target="_blank">View my TryHackMe Badges</a>
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-<h3 align="left">🌱 My daily adventures consists of ethical hacking labs and projects</h3>
 
