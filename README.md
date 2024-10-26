@@ -1,13 +1,45 @@
-<h1 align="center">An Aspiring InfoSec Professional</h1>
-<h3 align="left">👋 Greetings, cyber adventurers!</h3>
+# 👋 Greetings, cyber adventurers!
+<a href="https://linkedin.com/in/stevenrim"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://medium.com/@stevenrim"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=Medium&logoColor=white" />
+<a href="mailto:stevenrim@proton.me"><img src="https://img.shields.io/badge/-Proton.me-4B275F?&style=for-the-badge&logo=Proton&logoColor=white" />
+</a>
 
-Thank you for taking the time to visit my portfolio as I chronicle my journey into InfoSec. Here, you'll find my hands-on labs from online platforms like HTB and THM, and ethical projects inspired by amazing security YouTubers. This journey isn't just about me, it's also about inspiring you. Whether you're an enthusiast, a budding cyberwarrior, or a future employer, know that every keystroke, every byte, and every analysis tells a story. Mine is just beginning and I hope what I share here adds a spark to your own adventure. Yours truly, Steven aka 9purp0s3
+Thank you for taking the time to visit my portfolio as I chronicle my journey into InfoSec. Here, you'll find my hands-on labs from online platforms like HTB and THM, and ethical projects that were motivated by security and tech professionals around the world. This journey isn't just about me, it's also about inspiring you. Whether you're an enthusiast, a budding cyberwarrior, or a future employer, know that every keystroke, every byte, and every analysis tells a story. Mine is just beginning and I hope what I share here adds a spark to your own adventures and casts light into darkness. 
 
-<h3 align="left">📄 I'm currently studying for the CompTIA Security+ certification</h3>
+Yours truly, 
 
-- **Study Materials:** [Professor Messer's 701 Success Bundle ](https://www.professormesser.com/sy0-701-success-bundle/), [Professor Messer's 701 YouTube Playlist](https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)
+Steven aka 9purp0s3
+
+## Tools
+<div>
+<a href="https://linkedin.com/in/stevenrim"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</div>
+
+## Certifications
+<div>
+<a href="asdfasf"><img src="https://img.shields.io/badge/-CompTIA Security%2B-FF0000?&style=for-the-badge&logoColor=white" />
+<a href="https://www.credly.com/badges/c5dc51ac-beae-45ef-b27b-a060075191e3/"><img src="https://img.shields.io/badge/-Google Cybersecurity-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://app.kajabi.com/certificates/72ada0d2"><img src="https://img.shields.io/badge/-Leveld SOC Analyst-808080?&style=for-the-badge&logoColor=white" />
+<a href="https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst"><img src="https://img.shields.io/badge/-HackTheBox CDSA-53FF33?&style=for-the-badge&logoColor=white" />
+</div>
+
+## TryHackMe Badge
+<img src="https://tryhackme-badges.s3.amazonaws.com/9purp0s3.png" alt="Your Image Badge" />
+
+<a href="https://tryhackme.com/profile/3359463" target="_blank">View my TryHackMe Badges</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h3 align="left">🌱 My daily adventures consists of ethical hacking labs and projects</h3>
 
-- **Platforms I Use:** HackTheBox, TryHackMe, Youtube
-- **Education:** MS Cybersecurity (expected to graduate in 2025)
