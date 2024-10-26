@@ -12,6 +12,12 @@ Steven aka 9purp0s3
 ## Portfolio
 <div>
 <a href="https://medium.com/@stevenrim"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=Medium&logoColor=white" />
+<a href=""><img src="https://img.shields.io/badge/-SOAR EDR-000000?&style=for-the-badge&logo=Medium&logoColor=white" />
+<a href=""><img src="https://img.shields.io/badge/-SOC Automation-000000?&style=for-the-badge&logo=Medium&logoColor=white" />  
+<a href=""><img src="https://img.shields.io/badge/-Honeynet-000000?&style=for-the-badge&logo=Medium&logoColor=white" />
+<a href=""><img src="https://img.shields.io/badge/-AD PowerShell Script-000000?&style=for-the-badge&logo=Medium&logoColor=white" /> 
+<a href=""><img src="https://img.shields.io/badge/-AD w/VirtualBox-000000?&style=for-the-badge&logo=Medium&logoColor=white" />
+<a href=""><img src="https://img.shields.io/badge/-LimaCharlie Automation-000000?&style=for-the-badge&logo=Medium&logoColor=white" />  
 </div>
 
 ## Certifications
