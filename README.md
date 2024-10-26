@@ -1,6 +1,5 @@
 # 👋 Greetings, cyber adventurers!
 <a href="https://linkedin.com/in/stevenrim"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-<a href="https://medium.com/@stevenrim"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=Medium&logoColor=white" />
 <a href="mailto:stevenrim@proton.me"><img src="https://img.shields.io/badge/-Proton.me-4B275F?&style=for-the-badge&logo=Proton&logoColor=white" />
 </a>
 
@@ -10,9 +9,9 @@ Yours truly,
 
 Steven aka 9purp0s3
 
-## Tools
+## Portfolio
 <div>
-<a href="https://linkedin.com/in/stevenrim"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://medium.com/@stevenrim"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=Medium&logoColor=white" />
 </div>
 
 ## Certifications
