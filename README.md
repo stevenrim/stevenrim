@@ -23,7 +23,7 @@ Steven aka 9purp0s3
 </div>
 
 ## TryHackMe Badge
-<a href="www.google.com"><img src="https://tryhackme-badges.s3.amazonaws.com/9purp0s3.png" alt="Your Image Badge"/></a>
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/9purp0s3.png)](https://tryhackme.com/p/9purp0s3)
 
 
 
