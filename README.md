@@ -28,11 +28,16 @@ Steven aka 9purp0s3
 <a href=""><img src="https://img.shields.io/badge/-CSA CCSK-000080?&style=for-the-badge&logoColor=white"/></a> 
 </div>
 
-## TryHackMe Badge
+## THM Badges 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/9purp0s3.png)](https://tryhackme.com/p/9purp0s3)
 
 
-
-
-
-
+## HTB Badges
+<a href="https://academy.hackthebox.com/achievement/badge/3012c379-0e6b-11ef-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/academician.png" width="80" height="80"/></a>
+<a href="https://academy.hackthebox.com/achievement/badge/50ff53be-0f94-11ef-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/4a11a1a1d810967184694662d629de2d/logo.png" width="80" height="80"/></a>
+<a href="https://academy.hackthebox.com/achievement/badge/b4cdf74f-10b6-11ef-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/eb072974e828f87af924bce557b2c614/logo.png" width="80" height="80"/></a>
+<a href="https://academy.hackthebox.com/achievement/badge/0db968b9-15e9-11ef-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/f284df82c57336019410ed5f68ace295/logo.png" width="80" height="80"/></a>
+<a href="https://academy.hackthebox.com/achievement/badge/fb4ad0bf-0ff8-11ef-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/abc6e5a362f8adad812c5cfa87783bd9/logo.png" width="80" height="80"/></a>
+<a href="https://academy.hackthebox.com/achievement/badge/aeb9a03e-114b-11ef-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/d7343c8afb32e9feee0fed1fc2acd378/logo.png" width="80" height="80"/></a>
+<a href="https://academy.hackthebox.com/achievement/badge/cd29c60a-1c2b-11ef-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/8644292aaa052ff2971d3541256ee605/logo.png" width="80" height="80"/></a>
+<a href="https://academy.hackthebox.com/achievement/badge/e7471611-0e69-11ef-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/7f81e8837d0540d610c5019478c7647a/logo.png" width="80" height="80"/></a>
