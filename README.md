@@ -10,7 +10,7 @@ Yours truly,
 
 Steven aka 9purp0s3
 
-## Portfolio
+## Home Labs and Projects
 <div>
     <a href=""><img src="https://img.shields.io/badge/-AD Home Lab:-000000?&style=for-the-badge&logoColor=white"/><a href=""><img src="https://img.shields.io/badge/-w/VirtualBox and PowerShell-000000?&style=for-the-badge&logoColor=white"/></a>
 </div>
