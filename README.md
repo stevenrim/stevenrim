@@ -53,7 +53,7 @@ Steven aka 9purp0s3
 <a href=""><img src="https://img.shields.io/badge/-CSA CCSK-000080?&style=for-the-badge&logoColor=white"/></a>
 
 ## TryHackMe Badges 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/9purp0s3.png)](https://tryhackme.com/p/9purp0s3)\
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/9purp0s3.png?update=2)](https://tryhackme.com/p/9purp0s3)
 
 ## HackTheBox Badges
 <a href="https://academy.hackthebox.com/achievement/badge/3012c379-0e6b-11ef-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/academician.png" width="80" height="80"/></a>
