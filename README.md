@@ -18,10 +18,10 @@ Steven aka 9purp0s3
     <a href=""><img src="https://img.shields.io/badge/-Building a Cloud Honeynet and SOC w/Azure-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
 </div>
 <div>
-    <a href=""><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
+    <a href="https://medium.com/@stevenrim/virtual-attacks-and-splunk-insights-b892468cbec9"><img src="https://img.shields.io/badge/-Virtual Attacks and Splunk Insights-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
 </div>
 <div>
-    <a href=""><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
+    <a href="https://medium.com/@stevenrim/automating-security-workflow-w-limacharlie-and-tines-020ee72ee340"><img src="https://img.shields.io/badge/-Automating Security Workflow w/LimaCharlie and Tines-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
 </div>
 <div>
     <a href=""><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
