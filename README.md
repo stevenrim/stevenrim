@@ -12,30 +12,24 @@ Steven aka 9purp0s3
 
 ## Projects
 <div>
-    <a href=""><img src="https://img.shields.io/badge/-AD Home Lab:-000000?&style=for-the-badge&logoColor=white"/><a href=""><img src="https://img.shields.io/badge/-w/VirtualBox and PowerShell-000000?&style=for-the-badge&logoColor=white"/></a>
+    <a href=""><img src="https://img.shields.io/badge/-AD Home Lab w/VirtualBox and PowerShell-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </div>
 <div>
-    <a href=""><img src="https://img.shields.io/badge/-Honeynet and SOC-000000?&style=for-the-badge&logoColor=white"/></a>
-    <a href=""><img src="https://img.shields.io/badge/-Building a Honeynet w/Azure-000000?&style=for-the-badge&logoColor=white"/></a>
+    <a href=""><img src="https://img.shields.io/badge/-Building a Cloud Honeynet and SOC w/Azure-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
 </div>
 <div>
-    <a href=""><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-000000?&style=for-the-badge&logoColor=white"/></a>
-    <a href=""><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-000000?&style=for-the-badge&logoColor=white"/></a>
+    <a href=""><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
 </div>
 <div>
-    <a href=""><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-000000?&style=for-the-badge&logoColor=white"/></a>
-    <a href=""><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-000000?&style=for-the-badge&logoColor=white"/></a>
+    <a href=""><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
 </div>
 <div>
-    <a href=""><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-000000?&style=for-the-badge&logoColor=white"/></a>
-    <a href=""><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-000000?&style=for-the-badge&logoColor=white"/></a>
+    <a href=""><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
 </div>
 <div>
     <a href=""><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-000000?&style=for-the-badge&logoColor=white"/></a>
-    <a href=""><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-000000?&style=for-the-badge&logoColor=white"/></a>
 </div>
 <div>
-    <a href=""><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-000000?&style=for-the-badge&logoColor=white"/></a>
     <a href=""><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-000000?&style=for-the-badge&logoColor=white"/></a>
 </div>
 
