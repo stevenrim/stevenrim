@@ -24,7 +24,7 @@ Steven aka 9purp0s3
     <a href="https://medium.com/@stevenrim/automating-security-workflow-w-limacharlie-and-tines-020ee72ee340"><img src="https://img.shields.io/badge/-Automating Security Workflow w/LimaCharlie and Tines-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
 </div>
 <div>
-    <a href=""><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
+    <a href=""><img src="https://img.shields.io/badge/-Exploiting Web App Vulnerabilities on OWASP Juice Shop-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
 </div>
 <div>
     <a href=""><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-000000?&style=for-the-badge&logoColor=white"/></a>
@@ -58,8 +58,9 @@ Steven aka 9purp0s3
 <a href="https://academy.hackthebox.com/achievement/badge/aeb9a03e-114b-11ef-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/d7343c8afb32e9feee0fed1fc2acd378/logo.png" width="80" height="80"/></a>
 <a href="https://academy.hackthebox.com/achievement/badge/cd29c60a-1c2b-11ef-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/8644292aaa052ff2971d3541256ee605/logo.png" width="80" height="80"/></a>
 
-
-
+## Affilitations
+<a href=""><img src="https://img.shields.io/badge/-OWASP ATL-000000?&style=for-the-badge&logo=OWASP&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/-DC404-000000?&style=for-the-badge&logo=&logoColor=white"/></a>
 
 
 
