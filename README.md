@@ -1,5 +1,4 @@
 # 👋 Greetings, cyber adventurers!
-<a href=""><img src="https://img.shields.io/badge/-My Resume-000000?&style=for-the-badge&"/></a>
 <a href="https://linkedin.com/in/stevenrim"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=&logoColor=white"/></a>
 <a href="mailto:stevenrim@proton.me"><img src="https://img.shields.io/badge/-Proton.me-4B275F?&style=for-the-badge&logo=&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/-MEDIUM-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
