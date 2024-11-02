@@ -60,6 +60,7 @@ Steven aka 9purp0s3
 <a href="https://assets.tryhackme.com/room-badges/9d0b93ce193a340efc9bc6740b395bf6.png"><img src="https://assets.tryhackme.com/room-badges/9d0b93ce193a340efc9bc6740b395bf6.png" width=auto height="70"/></a>
 <a href="https://assets.tryhackme.com/room-badges/fa9c5a95f91f7f2fec47376aecb62e6b.png"><img src="https://assets.tryhackme.com/room-badges/fa9c5a95f91f7f2fec47376aecb62e6b.png" width=auto height="70"/></a>
 <a href="https://assets.tryhackme.com/room-badges/bf15bf7cf604484e70c39de726b1ce36.png"><img src="https://assets.tryhackme.com/room-badges/bf15bf7cf604484e70c39de726b1ce36.png" width=auto height="70"/></a>
+<a href="https://assets.tryhackme.com/room-badges/d8d484d957bfd34dd66bb4aae9a18f4f.png"><img src="https://assets.tryhackme.com/room-badges/d8d484d957bfd34dd66bb4aae9a18f4f.png" width=auto height="70"/></a>
 </div>
 
 ## HackTheBox Badges
