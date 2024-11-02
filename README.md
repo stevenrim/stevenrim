@@ -45,16 +45,22 @@ Steven aka 9purp0s3
 <a href=""><img src="https://img.shields.io/badge/-TryHackMe SOC Level 1-2a3042?&style=for-the-badge&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/-CSA CCSK-000080?&style=for-the-badge&logoColor=white"/></a>
 
-## TryHackMe Room Badges
+## TryHackMe Badges
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/9purp0s3.png?update=5)](https://tryhackme.com/p/9purp0s3)
+<div>
 <a href="https://assets.tryhackme.com/room-badges/fac4d93312dac72d64b236b88f38b36c.png"><img src="https://assets.tryhackme.com/room-badges/fac4d93312dac72d64b236b88f38b36c.png" width=auto height="70"/></a>
 <a href="https://assets.tryhackme.com/room-badges/030d9e4058f4f70d8204e495f862b684.png"><img src="https://assets.tryhackme.com/room-badges/030d9e4058f4f70d8204e495f862b684.png" width=auto height="70"/></a>
 <a href="https://assets.tryhackme.com/room-badges/b93ec1fe617f22d65ce5674e06bc2842.png"><img src="https://assets.tryhackme.com/room-badges/b93ec1fe617f22d65ce5674e06bc2842.png" width=auto height="70"/></a>
 <a href="https://assets.tryhackme.com/room-badges/f2ba728f814a4d9e840d9ec99bc2d360.png"><img src="https://assets.tryhackme.com/room-badges/f2ba728f814a4d9e840d9ec99bc2d360.png" width=auto height="70"/></a>
 <a href="https://assets.tryhackme.com/room-badges/6fd248dab1403d75a3645136ab1f63e9.png"><img src="https://assets.tryhackme.com/room-badges/6fd248dab1403d75a3645136ab1f63e9.png" width=auto height="70"/></a>
 <a href="https://assets.tryhackme.com/room-badges/708536d844ea9ae378976e6fcbf7349b.png"><img src="https://assets.tryhackme.com/room-badges/708536d844ea9ae378976e6fcbf7349b.png" width=auto height="70"/></a>
-
-## TryHackMe Profile Badge
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/9purp0s3.png?update=5)](https://tryhackme.com/p/9purp0s3)
+<a href="https://assets.tryhackme.com/room-badges/3a312420ed1d9dead7de0eadc58e9a86.png"><img src="https://assets.tryhackme.com/room-badges/3a312420ed1d9dead7de0eadc58e9a86.png" width=auto height="70"/></a>
+<a href="https://assets.tryhackme.com/room-badges/4faff0aee76be337ea01d74a7c3dd97c.png"><img src="https://assets.tryhackme.com/room-badges/4faff0aee76be337ea01d74a7c3dd97c.png" width=auto height="70"/></a>
+<a href="https://assets.tryhackme.com/room-badges/5f5449e3f60102bf9083afa80808bf4f.png"><img src="https://assets.tryhackme.com/room-badges/5f5449e3f60102bf9083afa80808bf4f.png" width=auto height="70"/></a>
+<a href="https://assets.tryhackme.com/room-badges/9d0b93ce193a340efc9bc6740b395bf6.png"><img src="https://assets.tryhackme.com/room-badges/9d0b93ce193a340efc9bc6740b395bf6.png" width=auto height="70"/></a>
+<a href="https://assets.tryhackme.com/room-badges/fa9c5a95f91f7f2fec47376aecb62e6b.png"><img src="https://assets.tryhackme.com/room-badges/fa9c5a95f91f7f2fec47376aecb62e6b.png" width=auto height="70"/></a>
+<a href="https://assets.tryhackme.com/room-badges/bf15bf7cf604484e70c39de726b1ce36.png"><img src="https://assets.tryhackme.com/room-badges/bf15bf7cf604484e70c39de726b1ce36.png" width=auto height="70"/></a>
+</div>
 
 ## HackTheBox Badges
 <a href="https://academy.hackthebox.com/achievement/badge/3012c379-0e6b-11ef-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/academician.png" width="80" height="80"/></a>
