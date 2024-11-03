@@ -46,7 +46,7 @@ Steven aka 9purp0s3
 <a href=""><img src="https://img.shields.io/badge/-CSA CCSK-000080?&style=for-the-badge&logoColor=white"/></a>
 
 ## TryHackMe Badges
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/9purp0s3.png?update=5)](https://tryhackme.com/p/9purp0s3)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/9purp0s3.png?update=6)](https://tryhackme.com/r/p/9purp0s3)
 <div>
 <a href="https://assets.tryhackme.com/room-badges/fac4d93312dac72d64b236b88f38b36c.png"><img src="https://assets.tryhackme.com/room-badges/fac4d93312dac72d64b236b88f38b36c.png" width=auto height="70"/></a>
 <a href="https://assets.tryhackme.com/room-badges/030d9e4058f4f70d8204e495f862b684.png"><img src="https://assets.tryhackme.com/room-badges/030d9e4058f4f70d8204e495f862b684.png" width=auto height="70"/></a>
