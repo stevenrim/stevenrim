@@ -25,13 +25,6 @@ Steven aka 9purp0s3
 <div>
     <a href=""><img src="https://img.shields.io/badge/-Exploiting Web App Vulnerabilities on OWASP Juice Shop-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
 </div>
-<div>
-    <a href=""><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-000000?&style=for-the-badge&logoColor=white"/></a>
-</div>
-<div>
-    <a href=""><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-000000?&style=for-the-badge&logoColor=white"/></a>
-</div>
-
 
 
 ## Completed Certifications
@@ -42,8 +35,8 @@ Steven aka 9purp0s3
 
 ## Certifications In Progress
 <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst"><img src="https://img.shields.io/badge/-HackTheBox CDSA-53FF33?&style=for-the-badge&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/-TryHackMe SOC Level 1-2a3042?&style=for-the-badge&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/-CSA CCSK-000080?&style=for-the-badge&logoColor=white"/></a>
+<a href="https://tryhackme.com/r/path/outline/soclevel1"><img src="https://img.shields.io/badge/-TryHackMe SOC Level 1-2a3042?&style=for-the-badge&logoColor=white"/></a>
+<a href="https://cloudsecurityalliance.org/education/ccsk"><img src="https://img.shields.io/badge/-CSA CCSK-000080?&style=for-the-badge&logoColor=white"/></a>
 
 ## TryHackMe Badges
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/9purp0s3.png?update=7)](https://tryhackme.com/r/p/9purp0s3)
