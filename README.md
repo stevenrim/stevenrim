@@ -46,7 +46,7 @@ Steven aka 9purp0s3
 <a href=""><img src="https://img.shields.io/badge/-CSA CCSK-000080?&style=for-the-badge&logoColor=white"/></a>
 
 ## TryHackMe Badges
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/9purp0s3.png?update=6)](https://tryhackme.com/r/p/9purp0s3)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/9purp0s3.png?update=7)](https://tryhackme.com/r/p/9purp0s3)
 <div>
 <a href="https://assets.tryhackme.com/room-badges/fac4d93312dac72d64b236b88f38b36c.png"><img src="https://assets.tryhackme.com/room-badges/fac4d93312dac72d64b236b88f38b36c.png" width=auto height="70"/></a>
 <a href="https://assets.tryhackme.com/room-badges/030d9e4058f4f70d8204e495f862b684.png"><img src="https://assets.tryhackme.com/room-badges/030d9e4058f4f70d8204e495f862b684.png" width=auto height="70"/></a>
@@ -61,6 +61,7 @@ Steven aka 9purp0s3
 <a href="https://assets.tryhackme.com/room-badges/fa9c5a95f91f7f2fec47376aecb62e6b.png"><img src="https://assets.tryhackme.com/room-badges/fa9c5a95f91f7f2fec47376aecb62e6b.png" width=auto height="70"/></a>
 <a href="https://assets.tryhackme.com/room-badges/bf15bf7cf604484e70c39de726b1ce36.png"><img src="https://assets.tryhackme.com/room-badges/bf15bf7cf604484e70c39de726b1ce36.png" width=auto height="70"/></a>
 <a href="https://assets.tryhackme.com/room-badges/d8d484d957bfd34dd66bb4aae9a18f4f.png"><img src="https://assets.tryhackme.com/room-badges/d8d484d957bfd34dd66bb4aae9a18f4f.png" width=auto height="70"/></a>
+<a href="https://assets.tryhackme.com/room-badges/4c949166b25b6253608276b9a854846d.png"><img src="https://assets.tryhackme.com/room-badges/4c949166b25b6253608276b9a854846d.png" width=auto height="70"/></a>    
 </div>
 
 ## HackTheBox Badges
