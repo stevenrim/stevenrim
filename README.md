@@ -11,10 +11,10 @@ Steven aka 9purp0s3
 
 ## Projects
 <div>
-    <a href=""><img src="https://img.shields.io/badge/-AD Home Lab w/VirtualBox and PowerShell-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+    <a href="https://medium.com/@stevenrim/active-directory-home-lab-w-virtualbox-e07932251a9f"><img src="https://img.shields.io/badge/-AD Home Lab w/VirtualBox and PowerShell-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </div>
 <div>
-    <a href=""><img src="https://img.shields.io/badge/-Building a Cloud Honeynet and SOC w/Azure-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
+    <a href="https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147"><img src="https://img.shields.io/badge/-Building a Cloud Honeynet and SOC w/Azure-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
 </div>
 <div>
     <a href="https://medium.com/@stevenrim/virtual-attacks-and-splunk-insights-b892468cbec9"><img src="https://img.shields.io/badge/-Virtual Attacks and Splunk Insights-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
