@@ -11,6 +11,9 @@ Steven aka 9purp0s3
 
 ## Projects
 <div>
+    <a href=""><img src="https://img.shields.io/badge/-Cisco Packet Tracer Lab Series-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
+</div>
+<div>
     <a href="https://medium.com/@stevenrim/active-directory-home-lab-w-virtualbox-e07932251a9f"><img src="https://img.shields.io/badge/-AD Home Lab w/VirtualBox and PowerShell-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </div>
 <div>
@@ -28,8 +31,7 @@ Steven aka 9purp0s3
 <div>
     <a href="https://medium.com/@stevenrim/this-year-im-thankful-for-input-validation-error-handling-and-egg-nogging-logging-d85036e8443c"><img src="https://img.shields.io/badge/-Python: Secure Coding Assignment-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
 </div>
- <a href=""><img src="https://img.shields.io/badge/-Cisco Packet Tracer Lab Series-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
-</div>
+ 
 
 ## Completed Certifications
 <a href="https://www.credly.com/badges/806e2f2e-f9c0-4081-9304-6f492136c153/"><img src="https://img.shields.io/badge/-CompTIA Security%2B-FF0000?&style=for-the-badge&logoColor=white"/></a>
