@@ -20,13 +20,13 @@ Steven aka 9purp0s3
     <a href="https://medium.com/@stevenrim/virtual-attacks-and-splunk-insights-b892468cbec9"><img src="https://img.shields.io/badge/-Virtual Attacks and Splunk Insights-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
 </div>
 <div>
-    <a href="https://medium.com/@stevenrim/automating-security-workflow-w-limacharlie-and-tines-020ee72ee340"><img src="https://img.shields.io/badge/-Automating Security Workflow w/LimaCharlie and Tines-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
+    <a href="https://medium.com/@stevenrim/automating-security-workflow-w-limacharlie-and-tines-020ee72ee340"><img src="https://img.shields.io/badge/-Automating Security Workflow w/LimaCharlie-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
 </div>
 <div>
-    <a href=""><img src="https://img.shields.io/badge/-Exploiting Web App Vulnerabilities on OWASP Juice Shop-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
+    <a href="https://medium.com/@stevenrim/owasp-juice-shop-10-2-for-arm64-raspberry-pi-5-68c28c046ccd"><img src="https://img.shields.io/badge/-Exploiting Vulnerabilities on OWASP Juice Shop-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
 </div>
 <div>
-    <a href="https://medium.com/@stevenrim/this-year-im-thankful-for-input-validation-error-handling-and-egg-nogging-logging-d85036e8443c"><img src="https://img.shields.io/badge/-Python: Input Validation, Error Handling, and Logging-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
+    <a href="https://medium.com/@stevenrim/this-year-im-thankful-for-input-validation-error-handling-and-egg-nogging-logging-d85036e8443c"><img src="https://img.shields.io/badge/-Python: Secure Coding Assignment-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
 </div>
 
 ## Completed Certifications
