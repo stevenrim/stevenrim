@@ -25,7 +25,9 @@ Steven aka 9purp0s3
 <div>
     <a href=""><img src="https://img.shields.io/badge/-Exploiting Web App Vulnerabilities on OWASP Juice Shop-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
 </div>
-
+<div>
+    <a href="https://medium.com/@stevenrim/this-year-im-thankful-for-input-validation-error-handling-and-egg-nogging-logging-d85036e8443c"><img src="https://img.shields.io/badge/-Python: Input Validation, Error Handling, and Logging-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
+</div>
 
 ## Completed Certifications
 <a href="https://www.credly.com/badges/806e2f2e-f9c0-4081-9304-6f492136c153/"><img src="https://img.shields.io/badge/-CompTIA Security%2B-FF0000?&style=for-the-badge&logoColor=white"/></a>
