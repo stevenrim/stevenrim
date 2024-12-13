@@ -41,6 +41,7 @@ Steven aka 9purp0s3
 
 
 ## Training & Certifications In Progress
+<a href=""><img src="https://img.shields.io/badge/-CompTIA Network%2B-FF0000?&style=for-the-badge&logoColor=white"/></a>
 <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst"><img src="https://img.shields.io/badge/-HackTheBox CDSA-53FF33?&style=for-the-badge&logoColor=white"/></a>
 <a href="https://tryhackme.com/r/path/outline/soclevel1"><img src="https://img.shields.io/badge/-TryHackMe SOC Level 1-2a3042?&style=for-the-badge&logoColor=white"/></a>
 
