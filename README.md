@@ -47,7 +47,7 @@ Steven aka 9purp0s3
 
 
 ## TryHackMe Badges
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/9purp0s3.png?update=15)](https://tryhackme.com/r/p/9purp0s3)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/9purp0s3.png?update=16)](https://tryhackme.com/r/p/9purp0s3)
 <div>
 <a href="https://assets.tryhackme.com/room-badges/fac4d93312dac72d64b236b88f38b36c.png"><img src="https://assets.tryhackme.com/room-badges/fac4d93312dac72d64b236b88f38b36c.png" width=auto height="70"/></a>
 <a href="https://assets.tryhackme.com/room-badges/030d9e4058f4f70d8204e495f862b684.png"><img src="https://assets.tryhackme.com/room-badges/030d9e4058f4f70d8204e495f862b684.png" width=auto height="70"/></a>
