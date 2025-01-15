@@ -10,15 +10,6 @@ Yours truly,
 
 Steven aka 9purp0s3
 
-## Experience
-**Cybersecurity Support Analyst Intern – Log (N) Pacific (5/2024-Present)**
-
-- Vulnerability Management: Conduct vulnerability scans in enterprise SOC environment, provide detailed reports, and implement PowerShell-based remediations.
-
-- Security Operations: Perform threat hunting with EDR, develop detection rules with KQL, build Sentinel dashboards, and design tabletop threat hunt scenarios involving internal and external threats.  
-
-- Technical Support: Provide technical support to students building, configuring, troubleshooting, and deploying Azure-based honeynets. Provide real-time support on dedicated Discord channel to help optimize Azure resources and reduce attack vectors while strengthening their cloud-based security and log management skills.
-
 
 ## Projects
 <div>
