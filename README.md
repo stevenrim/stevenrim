@@ -7,9 +7,21 @@
 Thank you for taking the time to visit my portfolio as I chronicle my journey into InfoSec. Here, you'll find my hands-on labs from online platforms like HTB and THM, and ethical projects that were motivated by security and tech professionals around the world. This journey isn't just about me, it's also about inspiring you. Whether you're an enthusiast, a budding cyberwarrior, or a future employer, know that every keystroke, every byte, and every analysis tells a story. Mine is just beginning and I hope what I share here adds a spark to your own adventures. 
 
 Yours truly, 
-
 Steven aka 9purp0s3
 
+# 12/2024 Update
+I’ve embraced the challenges of transitioning from a non-technical career to cybersecurity, and what I love most is the realization that the learning in this field is never-ending. It’s been just over a year since I listened to my first episode of Darknet Diaries that sparked my curiosity and passion for this field. It’s been both absolutely challenging and deeply rewarding. I can’t wait to see what 2025 has in store for me.
+
+My journey started with the Google Cybersecurity Certificate, which provided my foundational knowledge. From there, I dove into HackTheBox and TryHackMe labs, worked on projects inspired by the incredible professionals who share their knowledge on platforms like YouTube and other social media, studied for and passed the Security+, and completed the first year of my MS in Cybersecurity with a 3.9 GPA.
+
+Creators like Sandra Liu, Josh Madakor, NetworkChuck, David Bombal, Steven from MyDFIR, Ryan Montgomery, Jack Rhysider, David Spark, Keith Barker, Ed Harmoush, and many others have been instrumental in my journey. Their experiences, knowledge transfer, and guidance have inspired me, especially as I’ve navigated the complexities of this transition and sought clarity on what to learn next. I owe so much to their content, which has provided not just technical knowledge but also a sense of direction.
+
+I’ve also taken steps to connect with the infosec community by joining my city’s local DEF CON and OWASP groups. I plan to attend meetings regularly to continue learning, build connections, and stay engaged with others who share my passion for security.
+
+One of my biggest hopes is that I can motivate and inspire at least one person who is considering a similar career change. I understand firsthand how intimidating and overwhelming this process can be, but I also know the incredible rewards of perseverance and passion.
+
+Yours truly, 
+Steven aka 9purp0s3
 
 ## Projects
 <div>
@@ -36,6 +48,7 @@ Steven aka 9purp0s3
  
 
 ## Certifications and Training
+<a href=""><img src="https://img.shields.io/badge/-CompTIA Network%2B-FF0000?&style=for-the-badge&logoColor=white"/></a>
 <a href="https://www.credly.com/badges/806e2f2e-f9c0-4081-9304-6f492136c153/"><img src="https://img.shields.io/badge/-CompTIA Security%2B-FF0000?&style=for-the-badge&logoColor=white"/></a>
 <a href="https://www.credly.com/badges/c5dc51ac-beae-45ef-b27b-a060075191e3/"><img src="https://img.shields.io/badge/-Google Cybersecurity-000080?&style=for-the-badge&logoColor=white"/></a>
 <a href="https://app.kajabi.com/certificates/72ada0d2"><img src="https://img.shields.io/badge/-Leveld SOC Analyst-808080?&style=for-the-badge&logoColor=white"/></a>
