@@ -35,7 +35,7 @@ Steven aka 9purp0s3
 </div>
  
 
-## Certifications
+## Certifications and Training
 <a href="https://www.credly.com/badges/806e2f2e-f9c0-4081-9304-6f492136c153/"><img src="https://img.shields.io/badge/-CompTIA Security%2B-FF0000?&style=for-the-badge&logoColor=white"/></a>
 <a href="https://www.credly.com/badges/c5dc51ac-beae-45ef-b27b-a060075191e3/"><img src="https://img.shields.io/badge/-Google Cybersecurity-000080?&style=for-the-badge&logoColor=white"/></a>
 <a href="https://app.kajabi.com/certificates/72ada0d2"><img src="https://img.shields.io/badge/-Leveld SOC Analyst-808080?&style=for-the-badge&logoColor=white"/></a>
