@@ -9,20 +9,6 @@ Thank you for taking the time to visit my portfolio as I chronicle my journey in
 Yours truly, 
 Steven aka 9purp0s3
 
-# 12/2024 Update
-I’ve embraced the challenges of transitioning from a non-technical career to cybersecurity, and what I love most is the realization that the learning in this field is never-ending. It’s been just over a year since I listened to my first episode of Darknet Diaries that sparked my curiosity and passion for this field. It’s been both absolutely challenging and deeply rewarding. I can’t wait to see what 2025 has in store for me.
-
-My journey started with the Google Cybersecurity Certificate, which provided my foundational knowledge. From there, I dove into HackTheBox and TryHackMe labs, worked on projects inspired by the incredible professionals who share their knowledge on platforms like YouTube and other social media, studied for and passed the Security+, and completed the first year of my MS in Cybersecurity with a 3.9 GPA.
-
-Creators like Sandra Liu, Josh Madakor, NetworkChuck, David Bombal, Steven from MyDFIR, Ryan Montgomery, Jack Rhysider, David Spark, Keith Barker, Ed Harmoush, and many others have been instrumental in my journey. Their experiences, knowledge transfer, and guidance have inspired me, especially as I’ve navigated the complexities of this transition and sought clarity on what to learn next. I owe so much to their content, which has provided not just technical knowledge but also a sense of direction.
-
-I’ve also taken steps to connect with the infosec community by joining my city’s local DEF CON and OWASP groups. I plan to attend meetings regularly to continue learning, build connections, and stay engaged with others who share my passion for security.
-
-One of my biggest hopes is that I can motivate and inspire at least one person who is considering a similar career change. I understand firsthand how intimidating and overwhelming this process can be, but I also know the incredible rewards of perseverance and passion.
-
-Yours truly, 
-Steven aka 9purp0s3
-
 ## Projects
 <div>
     <a href="https://medium.com/@stevenrim/cisco-packet-tracer-lab-series-more-0051e9e438b7"><img src="https://img.shields.io/badge/-Cisco Packet Tracer Lab Series-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
