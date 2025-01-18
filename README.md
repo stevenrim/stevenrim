@@ -1,5 +1,5 @@
 # Hi, I'm Steven! <br>Emerging Cybersecurity Professional<br/>
-[![My Skills](https://skillicons.dev/icons?i=js,python,pycharm,azure,raspberrypi,kali,windows,powershell)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,python,pycharm,azure,raspberrypi,kali,windows,powershell)
 
 Thank you for exploring my portfolio as I document my journey into the world of cybersecurity. Within these pages, you'll find hands-on labs from platforms like HTB and THM, alongside ethical projects inspired by the work of security and tech professionals globally. This journey is not just mine—it's meant to inspire you as well. Whether you're an enthusiast, an aspiring cyber warrior, or a potential employer, every keystroke, byte, and analysis here tells a part of the story. My story is only beginning, and I hope the experiences I share ignite the spark for your own cybersecurity journey.
 
@@ -36,10 +36,6 @@ Steven aka 9purp0s3
 <a href="https://app.kajabi.com/certificates/72ada0d2"><img src="https://img.shields.io/badge/-Leveld SOC Analyst-808080?&style=for-the-badge&logoColor=white"/></a>
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SUPLNG2XBJ.png"><img src="https://img.shields.io/badge/-TryHackMe SOC Level 1-2a3042?&style=for-the-badge&logoColor=white"/></a>
 
-
-
-
-
 ## How to reach me
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/9purp0s3.png?update=18)](https://tryhackme.com/r/p/9purp0s3)
 <br>
@@ -47,11 +43,6 @@ Steven aka 9purp0s3
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/9.purp0s3)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@9purp0s3)
 [![My Skills](https://skillicons.dev/icons?i=pr)](mailto:stevenrim@proton.me)
-
-
-## Affiliations
-<a href="https://owasp.org/www-chapter-atlanta/"><img src="https://img.shields.io/badge/-OWASP ATL-000000?&style=for-the-badge&logo=OWASP&logoColor=white"/></a>
-<a href="https://dc404.org/"><img src="https://img.shields.io/badge/-DC404-000000?&style=for-the-badge&logo=&logoColor=white"/></a>
 
 
 
