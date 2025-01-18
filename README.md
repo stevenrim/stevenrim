@@ -11,6 +11,9 @@ Steven aka 9purp0s3
 
 ## Security Projects
 <div>
+    <a href="https://medium.com/@stevenrim/vulnerability-scans-with-tenable-nessus-924d658c7348"><img src="https://img.shields.io/badge/-Vulnerability Scans w/Tenable Nessus-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
+</div>
+<div>
     <a href="https://medium.com/@stevenrim/cisco-packet-tracer-lab-series-more-0051e9e438b7"><img src="https://img.shields.io/badge/-Cisco Packet Tracer Lab Series-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
 </div>
 <div>
