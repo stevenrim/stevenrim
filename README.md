@@ -1,5 +1,5 @@
 # Hi, I'm Steven! <br>Emerging Cybersecurity Professional<br/>
-![My Skills](https://skillicons.dev/icons?i=js,python,pycharm,azure,raspberrypi,kali,windows,powershell)
+[![My Skills](https://skillicons.dev/icons?i=js,python,pycharm,azure,raspberrypi,kali,windows,powershell)]()
 
 Thank you for exploring my portfolio as I document my journey into the world of cybersecurity. Within these pages, you'll find hands-on labs from platforms like HTB and THM, alongside ethical projects inspired by the work of security and tech professionals globally. This journey is not just mine—it's meant to inspire you as well. Whether you're an enthusiast, an aspiring cyber warrior, or a potential employer, every keystroke, byte, and analysis here tells a part of the story. My story is only beginning, and I hope the experiences I share ignite the spark for your own cybersecurity journey.
 
