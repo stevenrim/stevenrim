@@ -1,5 +1,7 @@
 # Hi I'm Steven! <br>Emerging Cybersecurity Professional<br/>
-[![My Skills](https://skillicons.dev/icons?i=js,python,pycharm,azure,raspberrypi,kali,windows,powershell)]()
+[![OS](https://go-skill-icons.vercel.app/api/icons?i=kali,windows,azure&theme=dark)]()
+[![languages](https://go-skill-icons.vercel.app/api/icons?i=python,javascript,powershell,bash,html&theme=dark)]()
+[![software](https://go-skill-icons.vercel.app/api/icons?i=wireshark,pycharm,virtualbox,raspberrypi,firefox,chatgpt&theme=dark)]()
 
 Thank you for exploring my portfolio as I document my journey into the world of cybersecurity. Within these pages, you'll find hands-on ethical projects inspired by the works of security and tech professionals globally. This journey is not just mine—it's meant to inspire you as well. Whether you're an enthusiast, an aspiring cyber warrior, or a potential employer, every keystroke, byte, and analysis here tells a part of the story. My story is only beginning, and I hope the experiences I share ignite the spark for your own cybersecurity journey.
 
@@ -42,8 +44,7 @@ Steven aka 9purp0s3
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/stevenrim)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/9.purp0s3)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@9purp0s3)
-[![My Skills](https://skillicons.dev/icons?i=pr)](mailto:stevenrim@proton.me)
-
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=proton&theme=dark)](mailto:stevenrim@proton.me)
 
 
 
