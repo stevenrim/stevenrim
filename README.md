@@ -10,7 +10,7 @@ Yours truly,
 Steven aka 9purp0s3
 
 # Security Projects
-<table style="border: 1px solid black;">
+<table>
   <tr>
     <td><a href="https://medium.com/@stevenrim/vulnerability-scans-with-tenable-nessus-924d658c7348"><img src="https://img.shields.io/badge/-Vulnerability Scans w/Tenable Nessus-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a></td>
     <td><a href="https://medium.com/@stevenrim/cisco-packet-tracer-lab-series-more-0051e9e438b7"><img src="https://img.shields.io/badge/-Cisco Packet Tracer Lab Series-000000?&style=for-the-badge&logo=Medium&logoColor=white"/></a></td>
@@ -33,7 +33,6 @@ Steven aka 9purp0s3
 # Certifications & Training
 <table>
   <tr>
-    <td><a href="https://tryhackme.com/r/p/9purp0s3"><img src="https://tryhackme-badges.s3.amazonaws.com/9purp0s3.png?update=18" alt="TryHackMe Badge" /></a></td>
     <td><a href="https://www.credly.com/badges/806e2f2e-f9c0-4081-9304-6f492136c153/"><img src="https://img.shields.io/badge/-CompTIA Security%2B-FF0000?&style=for-the-badge&logoColor=white"/></a>
         <br><a href="https://static.vecteezy.com/system/resources/previews/022/655/961/non_2x/work-in-progress-rubber-stamp-work-in-progress-grunge-stamp-seal-illustration-vector.jpg"><img src="https://img.shields.io/badge/-CompTIA Network%2B-FF0000?&style=for-the-badge&logoColor=white"/></a></td>
     <td><a href="https://www.credly.com/badges/c5dc51ac-beae-45ef-b27b-a060075191e3/"><img src="https://img.shields.io/badge/-Google Cybersecurity Cert-000080?&style=for-the-badge&logoColor=white"/></a>
