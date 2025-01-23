@@ -14,7 +14,7 @@ Steven aka 9purp0s3
   <tr>
     <td>
       <a href="https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147">
-        <img src="https://img.shields.io/badge/-Building a Cloud Honeynet and SOC w/Azure-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Cloud Honeynet and SOC w/Azure-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
       </a>
       <br>
       <a href="https://medium.com/@stevenrim/vulnerability-scans-with-tenable-nessus-924d658c7348">
@@ -34,8 +34,8 @@ Steven aka 9purp0s3
       </a>
     </td>
     <td>
-      <a href="https://medium.com/@stevenrim/this-year-im-thankful-for-input-validation-error-handling-and-egg-nogging-logging-d85036e8443c">
-        <img src="https://img.shields.io/badge/-Python: Secure Coding Assignment-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+      <a href="https://medium.com/@stevenrim/building-a-keylogger-w-python-508aa0465378">
+        <img src="https://img.shields.io/badge/-Building a Keylogger w/Python-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
       </a>
       <br>
       <a href="https://medium.com/@stevenrim/automating-security-workflow-w-limacharlie-and-tines-020ee72ee340">
