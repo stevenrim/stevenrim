@@ -45,6 +45,14 @@ Steven aka 9purp0s3
 <a href="https://medium.com/@stevenrim/teach-me-how-to-opsec-c1769e6937be">
   <img src="https://img.shields.io/badge/-Teach Me How To Opsec-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
+<br>
+<a href="https://static.vecteezy.com/system/resources/previews/022/655/961/non_2x/work-in-progress-rubber-stamp-work-in-progress-grunge-stamp-seal-illustration-vector.jpg">
+  <img src="https://img.shields.io/badge/-Full Vulnerability Management Program (coming soon)-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
+<br>
+<a href="https://static.vecteezy.com/system/resources/previews/022/655/961/non_2x/work-in-progress-rubber-stamp-work-in-progress-grunge-stamp-seal-illustration-vector.jpg">
+  <img src="https://img.shields.io/badge/-Security Audits Tools (coming soon)-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
 
 
 # Certifications & Training
