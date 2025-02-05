@@ -10,48 +10,42 @@ Yours truly,
 Steven aka 9purp0s3
 
 # Security Projects
-<table>
-  <tr>
-    <td>
-      <a href="https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147">
-        <img src="https://img.shields.io/badge/-Cloud Honeynet and SOC w/Azure-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
-      </a>
-      <br>
-      <a href="https://medium.com/@stevenrim/vulnerability-scans-with-tenable-nessus-924d658c7348">
-        <img src="https://img.shields.io/badge/-Vulnerability Scans w/Tenable Nessus-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
-      </a>
-      <br>
-      <a href="https://medium.com/@stevenrim/cisco-packet-tracer-lab-series-more-0051e9e438b7">
-        <img src="https://img.shields.io/badge/-Cisco Packet Tracer Lab Series-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
-      </a>
-      <br>
-      <a href="https://medium.com/@stevenrim/active-directory-home-lab-w-virtualbox-e07932251a9f">
-        <img src="https://img.shields.io/badge/-AD Home Lab w/VirtualBox and PowerShell-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
-      </a>
-      <br>
-      <a href="https://medium.com/@stevenrim/virtual-attacks-and-splunk-insights-b892468cbec9">
-        <img src="https://img.shields.io/badge/-Virtual Attacks and Splunk Insights-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://medium.com/@stevenrim/building-a-keylogger-w-python-508aa0465378">
-        <img src="https://img.shields.io/badge/-Building a Keylogger w/Python-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
-      </a>
-      <br>
-      <a href="https://medium.com/@stevenrim/automating-security-workflow-w-limacharlie-and-tines-020ee72ee340">
-        <img src="https://img.shields.io/badge/-Automating Security Workflow w/LimaCharlie-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
-      </a>
-      <br>
-      <a href="https://medium.com/@stevenrim/owasp-juice-shop-10-2-for-arm64-raspberry-pi-5-68c28c046ccd">
-        <img src="https://img.shields.io/badge/-Exploiting Vulnerabilities on OWASP Juice Shop-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
-      </a>
-      <br>
-      <a href="https://medium.com/@stevenrim/teach-me-how-to-opsec-c1769e6937be">
-        <img src="https://img.shields.io/badge/-Teach Me How To Opsec-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147">
+  <img src="https://img.shields.io/badge/-Cloud Honeynet and SOC w/Azure-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
+<br>
+<a href="https://medium.com/@stevenrim/vulnerability-scans-with-tenable-nessus-924d658c7348">
+  <img src="https://img.shields.io/badge/-Vulnerability Scans w/Tenable Nessus-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
+<br>
+<a href="https://medium.com/@stevenrim/cisco-packet-tracer-lab-series-more-0051e9e438b7">
+  <img src="https://img.shields.io/badge/-Cisco Packet Tracer Lab Series-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
+<br>
+<a href="https://medium.com/@stevenrim/active-directory-home-lab-w-virtualbox-e07932251a9f">
+  <img src="https://img.shields.io/badge/-AD Home Lab w/VirtualBox and PowerShell-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
+<br>
+<a href="https://medium.com/@stevenrim/virtual-attacks-and-splunk-insights-b892468cbec9">
+  <img src="https://img.shields.io/badge/-Virtual Attacks and Splunk Insights-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
+<br>
+<a href="https://medium.com/@stevenrim/automating-security-workflow-w-limacharlie-and-tines-020ee72ee340">
+  <img src="https://img.shields.io/badge/-Automating Security Workflow w/LimaCharlie-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
+<br>
+<a href="https://medium.com/@stevenrim/owasp-juice-shop-10-2-for-arm64-raspberry-pi-5-68c28c046ccd">
+  <img src="https://img.shields.io/badge/-Exploiting Vulnerabilities on OWASP Juice Shop-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
+<br>
+<a href="https://medium.com/@stevenrim/building-a-keylogger-w-python-508aa0465378">
+  <img src="https://img.shields.io/badge/-Building a Keylogger w/Python-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
+<br>
+<a href="https://medium.com/@stevenrim/teach-me-how-to-opsec-c1769e6937be">
+  <img src="https://img.shields.io/badge/-Teach Me How To Opsec-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
+
 
 # Certifications & Training
 <table>
