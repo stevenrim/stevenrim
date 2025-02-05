@@ -58,7 +58,7 @@ Steven aka 9purp0s3
 # Certifications & Training
 <table>
   <tr>
-    <td><a href="https://tryhackme.com/r/p/9purp0s3"><img src="https://tryhackme-badges.s3.amazonaws.com/9purp0s3.png?update=2"/></a></td>
+    <td><a href="https://tryhackme.com/r/p/9purp0s3"><img src="https://tryhackme-badges.s3.amazonaws.com/9purp0s3.png?update=3"/></a></td>
     <td><a href="https://www.credly.com/badges/806e2f2e-f9c0-4081-9304-6f492136c153/"><img src="https://img.shields.io/badge/-CompTIA Security%2B-FF0000?&style=for-the-badge&logoColor=white"/></a>
         <br><a href="https://static.vecteezy.com/system/resources/previews/022/655/961/non_2x/work-in-progress-rubber-stamp-work-in-progress-grunge-stamp-seal-illustration-vector.jpg"><img src="https://img.shields.io/badge/-CompTIA Network%2B-FF0000?&style=for-the-badge&logoColor=white"/></a></td>
     <td><a href="https://www.credly.com/badges/c5dc51ac-beae-45ef-b27b-a060075191e3/"><img src="https://img.shields.io/badge/-Google Cybersecurity-000080?&style=for-the-badge&logoColor=white"/></a>
