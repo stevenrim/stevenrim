@@ -54,6 +54,8 @@ Steven aka 9purp0s3
   <img src="https://img.shields.io/badge/-Security Audits Tools (coming soon)-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 
+# CTF Write-Ups
+- Threat Hunt Report: Uncovering a Data Breach with Microsoft Defender
 
 # Certifications & Training
 <table>
