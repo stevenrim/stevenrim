@@ -55,7 +55,7 @@ Steven aka 9purp0s3
 </a>
 
 # CTF Write-Ups
-- [Threat Hunt Report: Uncovering a Data Breach with Microsoft Defender(in progress)](https://github.com/stevenrim/threathunt1)
+- [Threat Hunt Report: Uncovering a Data Breach with Microsoft Defender(in progress)]()
 
 # Certifications & Training
 <table>
