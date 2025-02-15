@@ -1,4 +1,4 @@
-# Hi I'm Steven! <br>Emerging Cybersecurity Professional<br/>
+# Hi I'm Steven, an emerging cybersecurity professional!
 [![OS](https://go-skill-icons.vercel.app/api/icons?i=kali,windows,azure&theme=dark)]()
 [![languages](https://go-skill-icons.vercel.app/api/icons?i=python,powershell,terminal&theme=dark)]()
 [![software](https://go-skill-icons.vercel.app/api/icons?i=wireshark,elasticsearch&theme=dark)]()
@@ -9,7 +9,7 @@ Thank you for exploring my portfolio as I document my journey into the world of 
 Yours truly, 
 Steven aka 9purp0s3
 
-# Security Projects
+## Security Projects
 <a href="https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147">
   <img src="https://img.shields.io/badge/-Cloud Honeynet and SOC w/Azure-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
@@ -54,29 +54,26 @@ Steven aka 9purp0s3
   <img src="https://img.shields.io/badge/-Security Audits Tools (coming soon)-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 
-# CTF Write-Ups
+## CTF Write-Ups
 - [Threat Hunt Report: Uncovering a Data Breach with Microsoft Defender(in progress)]()
 - [OverTheWire: Wargames(in progress)]()
 
-# Certifications & Training
+## Certifications & Training Completed
 <table>
   <tr>  
-    <td><a href="https://www.credly.com/badges/806e2f2e-f9c0-4081-9304-6f492136c153/"><img src="https://img.shields.io/badge/-CompTIA Security%2B-FF0000?&style=for-the-badge&logoColor=white"/></a>
-        <br><a href="https://static.vecteezy.com/system/resources/previews/022/655/961/non_2x/work-in-progress-rubber-stamp-work-in-progress-grunge-stamp-seal-illustration-vector.jpg"><img src="https://img.shields.io/badge/-CompTIA Network%2B-FF0000?&style=for-the-badge&logoColor=white"/></a></td>
+    <td><a href="https://www.credly.com/badges/806e2f2e-f9c0-4081-9304-6f492136c153/"><img src="https://img.shields.io/badge/-CompTIA Security%2B-FF0000?&style=for-the-badge&logoColor=white"/></a></td>
     <td><a href="https://www.credly.com/badges/c5dc51ac-beae-45ef-b27b-a060075191e3/"><img src="https://img.shields.io/badge/-Google Cybersecurity-000080?&style=for-the-badge&logoColor=white"/></a>
-        <br><a href="https://app.kajabi.com/certificates/72ada0d2"><img src="https://img.shields.io/badge/-SOC Analyst Masterclass-000080?&style=for-the-badge&logoColor=white"/></a></td>
-    <td><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SUPLNG2XBJ.png"><img src="https://img.shields.io/badge/-TryHackMe SOC Level 1-2a3042?&style=for-the-badge&logoColor=white"/></a>
-        <br><a href="https://static.vecteezy.com/system/resources/previews/022/655/961/non_2x/work-in-progress-rubber-stamp-work-in-progress-grunge-stamp-seal-illustration-vector.jpg"><img src="https://img.shields.io/badge/-TryHackMe SOC Level 2-2a3042?&style=for-the-badge&logoColor=white"/></a></td>
-    <td><a href="https://static.vecteezy.com/system/resources/previews/022/655/961/non_2x/work-in-progress-rubber-stamp-work-in-progress-grunge-stamp-seal-illustration-vector.jpg"><img src="https://img.shields.io/badge/-HackTheBox CDSA-47D400?&style=for-the-badge&logoColor=black&text=Green"/></a>
+    <td><a href="https://app.kajabi.com/certificates/72ada0d2"><img src="https://img.shields.io/badge/-SOC Analyst Masterclass-000080?&style=for-the-badge&logoColor=white"/></a></td>
+    <td><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SUPLNG2XBJ.png"><img src="https://img.shields.io/badge/-TryHackMe SOC Level 1-2a3042?&style=for-the-badge&logoColor=white"/></a></td>
   </tr>
 </table>
-<a href="https://tryhackme.com/r/p/9purp0s3"><img src="https://tryhackme-badges.s3.amazonaws.com/9purp0s3.png?update=3"/>
 
-## How to reach me
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/stevenrim)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/9.purp0s3)
-
-
-
+## Certifications & Training In Progress
+<table>
+  <tr>  
+    <td><a href="https://static.vecteezy.com/system/resources/previews/022/655/961/non_2x/work-in-progress-rubber-stamp-work-in-progress-grunge-stamp-seal-illustration-vector.jpg"><img src="https://img.shields.io/badge/-CompTIA Network%2B-FF0000?&style=for-the-badge&logoColor=white"/></a></td>
+    <td><a href="https://static.vecteezy.com/system/resources/previews/022/655/961/non_2x/work-in-progress-rubber-stamp-work-in-progress-grunge-stamp-seal-illustration-vector.jpg"><img src="https://img.shields.io/badge/-TryHackMe SOC Level 2-2a3042?&style=for-the-badge&logoColor=white"/></a></td>
+    <td><a href="https://static.vecteezy.com/system/resources/previews/022/655/961/non_2x/work-in-progress-rubber-stamp-work-in-progress-grunge-stamp-seal-illustration-vector.jpg"><img src="https://img.shields.io/badge/-HackTheBox CDSA-47D400?&style=for-the-badge&logoColor=black&text=Green"/></a></td>
+  </tr>
+</table>
 
