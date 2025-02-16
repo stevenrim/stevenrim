@@ -14,6 +14,10 @@ Steven aka 9purp0s3
   <img src="https://img.shields.io/badge/-Full Vulnerability Management Program-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 <br>
+<a href="https://medium.com/@stevenrim/windows-10-vulnerabilities-scan-script-secure-9e15590bdd27">
+  <img src="https://img.shields.io/badge/-Windows 10 Vulnerabilities: Scan, Script & Secure-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
+<br>
 <a href="https://medium.com/@stevenrim/vulnerability-scans-with-tenable-nessus-924d658c7348">
   <img src="https://img.shields.io/badge/-Vulnerability Scans w/Tenable Nessus-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
