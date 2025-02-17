@@ -9,7 +9,7 @@ Thank you for exploring my portfolio as I document my journey into the world of 
 Yours truly, 
 Steven aka 9purp0s3
 
-## Security Operations and Incident Response Projects
+## 🚨 Security Operations and Incident Response Projects
 <a href="https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147">
   <img src="https://img.shields.io/badge/-Cloud Honeynet and SOC w/Azure-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
@@ -22,7 +22,7 @@ Steven aka 9purp0s3
   <img src="https://img.shields.io/badge/-Automating Security Workflow w/LimaCharlie-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 
-## Threat Hunting
+## 🔎 Threat Hunting
 <a href="">
   <img src="https://img.shields.io/badge/-CTF Threat Hunt Report: Uncovering a Data Breach with MDE-000000?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -32,7 +32,7 @@ Steven aka 9purp0s3
 </a>
 
 
-## Vulnerability Management Projects
+## 🛠️ Vulnerability Management Projects
 <a href="https://medium.com/@stevenrim/vulnerability-management-program-implementation-0fad4462c688">
   <img src="https://img.shields.io/badge/-Full Vulnerability Management Program-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
@@ -45,7 +45,7 @@ Steven aka 9purp0s3
   <img src="https://img.shields.io/badge/-Vulnerability Scans w/Tenable Nessus-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 
-## Ethical Hacking Projects
+## 💻 Ethical Hacking Projects
 <a href="https://medium.com/@stevenrim/owasp-juice-shop-10-2-for-arm64-raspberry-pi-5-68c28c046ccd">
   <img src="https://img.shields.io/badge/-Exploiting Vulnerabilities on OWASP Juice Shop-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
@@ -58,7 +58,7 @@ Steven aka 9purp0s3
   <img src="https://img.shields.io/badge/-Security Audits Tools (coming soon)-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 
-## Network and System Administration Projects
+## 🖧 Network and System Administration Projects
 <a href="https://medium.com/@stevenrim/powershell-automation-for-disa-stig-compliance-and-hardening-6515d055d9ef">
   <img src="https://img.shields.io/badge/-PowerShell Automation for DISA STIG Compliance and Hardening-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
@@ -71,7 +71,7 @@ Steven aka 9purp0s3
   <img src="https://img.shields.io/badge/-AD Home Lab w/VirtualBox and PowerShell-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 
-## Certifications & Training Completed
+## 🏅 Certifications & Training Completed
 <table>
   <tr>  
     <td><a href="https://www.credly.com/badges/806e2f2e-f9c0-4081-9304-6f492136c153/"><img src="https://img.shields.io/badge/-CompTIA Security%2B-FF0000?&style=for-the-badge&logoColor=white"/></a></td>
@@ -81,7 +81,7 @@ Steven aka 9purp0s3
   </tr>
 </table>
 
-## Certifications & Training In Progress
+## 📜 Certifications & Training In Progress
 <table>
   <tr>  
     <td><a href="https://static.vecteezy.com/system/resources/previews/022/655/961/non_2x/work-in-progress-rubber-stamp-work-in-progress-grunge-stamp-seal-illustration-vector.jpg"><img src="https://img.shields.io/badge/-CompTIA Network%2B-FF0000?&style=for-the-badge&logoColor=white"/></a></td>
