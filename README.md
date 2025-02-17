@@ -49,6 +49,10 @@ Steven aka 9purp0s3
 </a>
 
 ## Network and System Administration Projects
+<a href="https://medium.com/@stevenrim/powershell-automation-for-disa-stig-compliance-and-hardening-6515d055d9ef">
+  <img src="https://img.shields.io/badge/-PowerShell Automation for DISA STIG Compliance and Hardening-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
+<br>
 <a href="https://medium.com/@stevenrim/cisco-packet-tracer-lab-series-more-0051e9e438b7">
   <img src="https://img.shields.io/badge/-Cisco Packet Tracer Lab Series-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
@@ -56,8 +60,6 @@ Steven aka 9purp0s3
 <a href="https://medium.com/@stevenrim/active-directory-home-lab-w-virtualbox-e07932251a9f">
   <img src="https://img.shields.io/badge/-AD Home Lab w/VirtualBox and PowerShell-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
-<br>
-
 
 ## CTF Write-Ups
 - [Threat Hunt Report: Uncovering a Data Breach with Microsoft Defender(in progress)]()
