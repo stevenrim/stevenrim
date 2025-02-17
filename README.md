@@ -9,19 +9,6 @@ Thank you for exploring my portfolio as I document my journey into the world of 
 Yours truly, 
 Steven aka 9purp0s3
 
-## Vulnerability Management Projects
-<a href="https://medium.com/@stevenrim/vulnerability-management-program-implementation-0fad4462c688">
-  <img src="https://img.shields.io/badge/-Full Vulnerability Management Program-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
-</a>
-<br>
-<a href="https://medium.com/@stevenrim/windows-10-vulnerabilities-scan-script-secure-9e15590bdd27">
-  <img src="https://img.shields.io/badge/-Windows 10 Vulnerabilities: Scan, Script & Secure-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
-</a>
-<br>
-<a href="https://medium.com/@stevenrim/vulnerability-scans-with-tenable-nessus-924d658c7348">
-  <img src="https://img.shields.io/badge/-Vulnerability Scans w/Tenable Nessus-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
-</a>
-
 ## Security Operations and Incident Response Projects
 <a href="https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147">
   <img src="https://img.shields.io/badge/-Cloud Honeynet and SOC w/Azure-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
@@ -33,6 +20,29 @@ Steven aka 9purp0s3
 <br>
 <a href="https://medium.com/@stevenrim/automating-security-workflow-w-limacharlie-and-tines-020ee72ee340">
   <img src="https://img.shields.io/badge/-Automating Security Workflow w/LimaCharlie-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
+
+## Threat Hunting
+<a href="">
+  <img src="https://img.shields.io/badge/-CTF Threat Hunt Report: Uncovering a Data Breach with MDE-000000?&style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br>
+<a href="">
+  <img src="https://img.shields.io/badge/-Hunting Malicious Activity with MDE-000000?&style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+
+## Vulnerability Management Projects
+<a href="https://medium.com/@stevenrim/vulnerability-management-program-implementation-0fad4462c688">
+  <img src="https://img.shields.io/badge/-Full Vulnerability Management Program-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
+<br>
+<a href="https://medium.com/@stevenrim/windows-10-vulnerabilities-scan-script-secure-9e15590bdd27">
+  <img src="https://img.shields.io/badge/-Windows 10 Vulnerabilities: Scan, Script & Secure-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
+<br>
+<a href="https://medium.com/@stevenrim/vulnerability-scans-with-tenable-nessus-924d658c7348">
+  <img src="https://img.shields.io/badge/-Vulnerability Scans w/Tenable Nessus-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 
 ## Ethical Hacking Projects
@@ -60,10 +70,6 @@ Steven aka 9purp0s3
 <a href="https://medium.com/@stevenrim/active-directory-home-lab-w-virtualbox-e07932251a9f">
   <img src="https://img.shields.io/badge/-AD Home Lab w/VirtualBox and PowerShell-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
-
-## CTF Write-Ups
-- [Threat Hunt Report: Uncovering a Data Breach with Microsoft Defender(in progress)]()
-- [OverTheWire: Wargames(in progress)]()
 
 ## Certifications & Training Completed
 <table>
