@@ -71,7 +71,7 @@ Steven aka 9purp0s3
   <img src="https://img.shields.io/badge/-AD Home Lab w/VirtualBox and PowerShell-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 
-## 🏅 Certifications & Training Completed
+## 🏅 Completed Certifications & Training 
 <table>
   <tr>  
     <td><a href="https://www.credly.com/badges/806e2f2e-f9c0-4081-9304-6f492136c153/"><img src="https://img.shields.io/badge/-CompTIA Security%2B-FF0000?&style=for-the-badge&logoColor=white"/></a></td>
@@ -81,7 +81,7 @@ Steven aka 9purp0s3
   </tr>
 </table>
 
-## 🧠 Certifications & Training In Progress
+## 🧠 In Progress Certifications & Training 
 <table>
   <tr>  
     <td><a href="https://static.vecteezy.com/system/resources/previews/022/655/961/non_2x/work-in-progress-rubber-stamp-work-in-progress-grunge-stamp-seal-illustration-vector.jpg"><img src="https://img.shields.io/badge/-CompTIA Network%2B-FF0000?&style=for-the-badge&logoColor=white"/></a></td>
