@@ -58,7 +58,7 @@ Steven aka 9purp0s3
   <img src="https://img.shields.io/badge/-Security Audits Tools (coming soon)-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 
-## 🖧 Network and System Administration Projects
+## 🌐 Network and System Administration Projects
 <a href="https://medium.com/@stevenrim/powershell-automation-for-disa-stig-compliance-and-hardening-6515d055d9ef">
   <img src="https://img.shields.io/badge/-PowerShell Automation for DISA STIG Compliance and Hardening-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
@@ -81,7 +81,7 @@ Steven aka 9purp0s3
   </tr>
 </table>
 
-## 📜 Certifications & Training In Progress
+## 🧠 Certifications & Training In Progress
 <table>
   <tr>  
     <td><a href="https://static.vecteezy.com/system/resources/previews/022/655/961/non_2x/work-in-progress-rubber-stamp-work-in-progress-grunge-stamp-seal-illustration-vector.jpg"><img src="https://img.shields.io/badge/-CompTIA Network%2B-FF0000?&style=for-the-badge&logoColor=white"/></a></td>
