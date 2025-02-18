@@ -1,7 +1,5 @@
 # Hi I'm Steven, an emerging cybersecurity professional!
-[![OS](https://go-skill-icons.vercel.app/api/icons?i=kali,windows,azure&theme=dark)]()
-[![languages](https://go-skill-icons.vercel.app/api/icons?i=python,powershell,terminal&theme=dark)]()
-[![software](https://go-skill-icons.vercel.app/api/icons?i=wireshark,elasticsearch&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=windows,powershell,kali,bash,azure,python&theme=dark&perline=25)](https://skillicons.dev)
 
 
 Thank you for exploring my portfolio as I document my journey into the world of cybersecurity. Within these pages, you'll find hands-on ethical projects inspired by the works of security and tech professionals globally. This journey is not just mine—it's meant to inspire you as well. Whether you're an enthusiast, an aspiring cyber warrior, or a potential employer, every keystroke, byte, and analysis here tells a part of the story. My story is only beginning, and I hope the experiences I share ignite the spark for your own cybersecurity journey.
