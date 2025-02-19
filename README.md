@@ -1,8 +1,11 @@
 # Hi I'm Steven, an emerging cybersecurity professional!
 [![My Skills](https://skillicons.dev/icons?i=windows,powershell,kali,bash,azure,python&theme=dark&perline=25)](https://skillicons.dev)
 
+Welcome to my cybersecurity portfolio, where I showcase hands-on projects in ethical hacking, security monitoring, and system administration. These projects are inspired by real-world challenges and industry best practices, reflecting my expertise in SIEM operations, log analysis, scripting, and network security.
 
-Thank you for exploring my portfolio as I document my journey into the world of cybersecurity. Within these pages, you'll find hands-on ethical projects inspired by the works of security and tech professionals globally. This journey is not just mine—it's meant to inspire you as well. Whether you're an enthusiast, an aspiring cyber warrior, or a potential employer, every keystroke, byte, and analysis here tells a part of the story. My story is only beginning, and I hope the experiences I share ignite the spark for your own cybersecurity journey.
+Cybersecurity is more than a field—it’s a mission. Whether you’re an industry professional, an aspiring security analyst, or a hiring manager, I hope these projects provide valuable insights and inspiration. Every log analyzed, attack simulated, and system secured contributes to a broader goal: strengthening digital defenses.
+
+Explore, engage, and connect—I look forward to sharing knowledge and growing alongside the cybersecurity community.
 
 Yours truly, 
 Steven aka 9purp0s3
