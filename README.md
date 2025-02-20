@@ -1,4 +1,4 @@
-# Hi I'm Steven, an emerging cybersecurity professional!
+# Steven's Cybersecurity Portfolio
 [![My Skills](https://skillicons.dev/icons?i=windows,powershell,kali,bash,azure,python&theme=dark&perline=25)](https://skillicons.dev)
 
 Welcome to my cybersecurity portfolio, where I showcase hands-on projects in ethical hacking, security monitoring, and system administration. These projects are inspired by real-world challenges and industry best practices, reflecting my expertise in SIEM operations, log analysis, scripting, and network security.
