@@ -22,6 +22,11 @@ Steven aka 9purp0s3
 <a href="https://medium.com/@stevenrim/automating-security-workflow-w-limacharlie-and-tines-020ee72ee340">
   <img src="https://img.shields.io/badge/-Automating Security Workflow w/LimaCharlie-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
+<br>
+<a href="https://medium.com/@stevenrim/generating-and-analyzing-endpoint-activity-logs-in-mde-e7535699ab15">
+  <img src="https://img.shields.io/badge/-Generating and Analyzing Endpoint Activity Logs in MDE-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
+
 
 ## 🔎 Threat Hunting
 <a href="https://github.com/stevenrim/threathunt1">
