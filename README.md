@@ -24,7 +24,7 @@ Steven aka 9purp0s3
 </a>
 <br>
 <a href="https://medium.com/@stevenrim/generating-and-analyzing-endpoint-activity-logs-in-mde-e7535699ab15">
-  <img src="https://img.shields.io/badge/-Automating Detection and Response in MDE-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Automating Endpoint Detection and Response in MDE-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 
 
