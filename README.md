@@ -10,7 +10,7 @@ Explore, engage, and connect—I look forward to sharing knowledge and growing a
 Yours truly, 
 Steven aka 9purp0s3
 
-## 🚨 Security Operations and Incident Response Projects
+## 🚨 Security Operations, Incident Response, & Threat Hunting Projects
 <a href="https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147">
   <img src="https://img.shields.io/badge/-Cloud Honeynet and SOC w/Azure-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
@@ -26,15 +26,9 @@ Steven aka 9purp0s3
 <a href="https://medium.com/@stevenrim/generating-and-analyzing-endpoint-activity-logs-in-mde-e7535699ab15">
   <img src="https://img.shields.io/badge/-Automating EDR with Defender for Endpoint-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
-
-
-## 🔎 Threat Hunting
+<br>
 <a href="https://github.com/stevenrim/threathunt1">
   <img src="https://img.shields.io/badge/-CTF Threat Hunt Report: Uncovering a Data Breach with MDE-000000?&style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<br>
-<a href="">
-  <img src="https://img.shields.io/badge/-Hunting Malicious Activity with MDE-000000?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 
