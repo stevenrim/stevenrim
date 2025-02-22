@@ -16,7 +16,7 @@ Steven aka 9purp0s3
 </a>
 <br>
 <a href="https://medium.com/@stevenrim/virtual-attacks-and-splunk-insights-b892468cbec9">
-  <img src="https://img.shields.io/badge/-Tactics, Techniques, & Procedures-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Simulating Attacks, Detecting Threats, and Mapping TTPs-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 <br>
 <a href="https://medium.com/@stevenrim/automating-security-workflow-w-limacharlie-and-tines-020ee72ee340">
