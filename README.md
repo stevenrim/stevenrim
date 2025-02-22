@@ -20,11 +20,11 @@ Steven aka 9purp0s3
 </a>
 <br>
 <a href="https://medium.com/@stevenrim/automating-security-workflow-w-limacharlie-and-tines-020ee72ee340">
-  <img src="https://img.shields.io/badge/-Automating Endpoint Detection and Response with LimaCharlie and Tines-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Automating EDR with LimaCharlie and Tines-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 <br>
 <a href="https://medium.com/@stevenrim/generating-and-analyzing-endpoint-activity-logs-in-mde-e7535699ab15">
-  <img src="https://img.shields.io/badge/-Automating Endpoint Detection and Response with Defender for Endpoint-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Automating EDR with Defender for Endpoint-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 
 
