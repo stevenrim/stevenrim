@@ -1,13 +1,12 @@
 # Steven's Cybersecurity Portfolio
 [![My Skills](https://skillicons.dev/icons?i=windows,powershell,kali,bash,azure,python,visualstudio&theme=dark&perline=25)](https://skillicons.dev)
 
-Welcome to my cybersecurity portfolio, where I showcase hands-on projects in ethical hacking, security monitoring, and system administration. These projects are inspired by real-world challenges and industry best practices, reflecting my expertise in SIEM operations, log analysis, scripting, and network security.
+As an aspiring Security Analyst, I’ve built a portfolio that bridges the gap between my academic studies and real-world security challenges. Beyond technical skills, I’ve applied industry frameworks like NIST CSF 2.0, ISO 27001, CIS Controls, MITRE ATT&CK, and Cyber Kill Chain to strengthen security postures, uphold CIA (Confidentiality, Integrity, Availability) principles, and mitigate threats that seek to disclose, alter, or destroy (DAD) data and systems.
 
-Cybersecurity is more than a field—it’s a mission. Whether you’re an industry professional, an aspiring security analyst, or a hiring manager, I hope these projects provide valuable insights and inspiration. Every log analyzed, attack simulated, and system secured contributes to a broader goal: strengthening digital defenses.
+However, my projects have shown me that cybersecurity extends beyond technology and ethical hacking—it requires understanding threat actor motivations, risk management, and how security teams balance defense with business priorities. In addition to threat detection and security automation, I’ve worked on vulnerability management, assessing security gaps, prioritizing risks, and implementing remediation strategies to reduce an organization’s attack surface. The most effective security teams operate at the intersection of technology, people, and strategy, ensuring security remains resilient and sustainable.
 
-Explore, engage, and connect—I look forward to sharing knowledge and growing alongside the cybersecurity community.
+I’m eager to bring my leadership, risk assessment, and technical skills to a Security Analyst role, where I can help organizations identify vulnerabilities, mitigate threats, and strengthen security operations.
 
-Yours truly, 
 Steven aka 9purp0s3
 
 ## 🚨 Security Operations, Incident Response, & Threat Hunting Projects
@@ -87,6 +86,7 @@ Steven aka 9purp0s3
     <td><a href="https://static.vecteezy.com/system/resources/previews/022/655/961/non_2x/work-in-progress-rubber-stamp-work-in-progress-grunge-stamp-seal-illustration-vector.jpg"><img src="https://img.shields.io/badge/-CompTIA Network%2B-FF0000?&style=for-the-badge&logoColor=white"/></a></td>
     <td><a href="https://static.vecteezy.com/system/resources/previews/022/655/961/non_2x/work-in-progress-rubber-stamp-work-in-progress-grunge-stamp-seal-illustration-vector.jpg"><img src="https://img.shields.io/badge/-TryHackMe SOC Level 2-2a3042?&style=for-the-badge&logoColor=white"/></a></td>
     <td><a href="https://static.vecteezy.com/system/resources/previews/022/655/961/non_2x/work-in-progress-rubber-stamp-work-in-progress-grunge-stamp-seal-illustration-vector.jpg"><img src="https://img.shields.io/badge/-HackTheBox CDSA-47D400?&style=for-the-badge&logoColor=black&text=Green"/></a></td>
+    <td><a href="https://static.vecteezy.com/system/resources/previews/022/655/961/non_2x/work-in-progress-rubber-stamp-work-in-progress-grunge-stamp-seal-illustration-vector.jpg"><img src="https://img.shields.io/badge/-CSA CCSK-47D400?&style=for-the-badge&logoColor=black&text=Green"/></a></td>
   </tr>
 </table>
 
