@@ -1,11 +1,11 @@
 # Steven's Cybersecurity Portfolio
 [![My Skills](https://skillicons.dev/icons?i=windows,powershell,kali,bash,azure,python,visualstudio&theme=dark&perline=25)](https://skillicons.dev)
 
-As an aspiring Security Analyst, I’ve built a portfolio that bridges the gap between my academic studies and real-world security challenges. Beyond technical skills, I’ve applied industry frameworks like NIST CSF 2.0, ISO 27001, CIS Controls, MITRE ATT&CK, and Cyber Kill Chain to strengthen security postures, uphold CIA (Confidentiality, Integrity, Availability) principles, and mitigate threats that seek to disclose, alter, or destroy (DAD) data and systems.
+As an aspiring Security Analyst, I have built a comprehensive portfolio that bridges my academic background with real-world security challenges. My work leverages industry-leading frameworks—including NIST CSF 2.0, ISO 27001, CIS Controls, MITRE ATT&CK, and the Cyber Kill Chain—to strengthen security postures, uphold the CIA triad (Confidentiality, Integrity, Availability), and mitigate threats targeting data and systems.
 
-However, my projects have shown me that cybersecurity extends beyond technology and ethical hacking—it requires understanding threat actor motivations, risk management, and how security teams balance defense with business priorities. In addition to threat detection and security automation, I’ve worked on vulnerability management, assessing security gaps, prioritizing risks, and implementing remediation strategies to reduce an organization’s attack surface. The most effective security teams operate at the intersection of technology, people, and strategy, ensuring security remains resilient and sustainable.
+My projects have deepened my understanding that effective cybersecurity extends well beyond technology and ethical hacking. It demands insights into threat actor motivations, risk management, and a balance between defense initiatives and business priorities. I have honed skills in threat detection, security automation, and vulnerability management by assessing security gaps, prioritizing risks, and implementing targeted remediation strategies that reduce an organization’s attack surface. This holistic approach underscores my belief that the most resilient security teams operate at the intersection of technology, people, and strategy.
 
-I’m eager to bring my leadership, risk assessment, and technical skills to a Security Analyst role, where I can help organizations identify vulnerabilities, mitigate threats, and strengthen security operations.
+I am eager to bring my leadership, risk assessment, and technical expertise to a Security Analyst role, where I can help organizations proactively identify vulnerabilities, mitigate emerging threats, and strengthen overall security operations.
 
 Steven aka 9purp0s3
 
