@@ -30,18 +30,6 @@ Steven aka 9purp0s3
   <img src="https://img.shields.io/badge/-Threat Hunt Report: Public Exposure-000000?&style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 <br>
-<a href="">
-  <img src="https://img.shields.io/badge/-Threat Hunt Report: Sudden Network Slowdowns-000000?&style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-<br>
-<a href="">
-  <img src="https://img.shields.io/badge/-Threat Hunt Report: Suspected Data Exfiltration-000000?&style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-<br>
-<a href="">
-  <img src="https://img.shields.io/badge/-Threat Hunt Report: New Zero Day Announced-000000?&style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-<br>
 
 ## 🛠️ Vulnerability Management Projects
 <a href="https://medium.com/@stevenrim/vulnerability-management-program-implementation-0fad4462c688">
