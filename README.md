@@ -26,10 +26,22 @@ Steven aka 9purp0s3
   <img src="https://img.shields.io/badge/-Automating EDR with Defender for Endpoint-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 <br>
-<a href="https://github.com/stevenrim/threathunt1">
-  <img src="https://img.shields.io/badge/-CTF Threat Hunt Report: Uncovering a Data Breach with MDE-000000?&style=for-the-badge&logo=github&logoColor=white"/>
+<a href="">
+  <img src="https://img.shields.io/badge/-Threat Hunt Report: Public Exposure-000000?&style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
-
+<br>
+<a href="">
+  <img src="https://img.shields.io/badge/-Threat Hunt Report: Sudden Network Slowdowns-000000?&style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+<br>
+<a href="">
+  <img src="https://img.shields.io/badge/-Threat Hunt Report: Suspected Data Exfiltration-000000?&style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+<br>
+<a href="">
+  <img src="https://img.shields.io/badge/-Threat Hunt Report: New Zero Day Announced-000000?&style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+<br>
 
 ## 🛠️ Vulnerability Management Projects
 <a href="https://medium.com/@stevenrim/vulnerability-management-program-implementation-0fad4462c688">
@@ -68,6 +80,15 @@ Steven aka 9purp0s3
 <br>
 <a href="https://medium.com/@stevenrim/active-directory-home-lab-w-virtualbox-e07932251a9f">
   <img src="https://img.shields.io/badge/-AD Home Lab w/VirtualBox and PowerShell-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
+
+## 🚩 Capture The Flags Events
+<a href="https://github.com/stevenrim/threathunt1">
+  <img src="https://img.shields.io/badge/-CTF Threat Hunt Report: Uncovering a Data Breach with MDE-000000?&style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br> 
+<a href="">
+  <img src="https://img.shields.io/badge/-CTF THM ADVENT OF CYBER 2024-000000?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ## 🏅 Completed Certifications & Training 
