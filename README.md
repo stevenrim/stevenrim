@@ -3,9 +3,9 @@
 
 As an aspiring Security Analyst, I have built a comprehensive portfolio that bridges my academic background with real-world security challenges. My work leverages industry-leading frameworks—including NIST CSF 2.0, ISO 27001, CIS Controls, MITRE ATT&CK, and the Cyber Kill Chain—to strengthen security postures, uphold the CIA triad (Confidentiality, Integrity, Availability), and mitigate threats targeting data and systems.
 
-My projects have deepened my understanding that effective cybersecurity extends well beyond technology and ethical hacking. It demands insights into threat actor motivations, risk management, and a balance between defense initiatives and business priorities. I have honed skills in threat detection, security automation, and vulnerability management by assessing security gaps, prioritizing risks, and implementing targeted remediation strategies that reduce an organization’s attack surface. This holistic approach underscores my belief that the most resilient security teams operate at the intersection of technology, people, and strategy.
+My projects have deepened my understanding that effective cybersecurity extends well beyond technology and ethical hacking. It demands insights into threat actor motivations, risk management, and a balance between defense initiatives and business priorities. I have honed skills in threat detection, security automation, and vulnerability management by assessing security gaps, prioritizing risks, and implementing targeted remediation strategies that reduce an organization’s attack surface. This overall approach supports my belief that the most resilient security teams operate at the intersection of technology, people, and strategy.
 
-I am eager to bring my leadership, risk assessment, and technical expertise to a Security Analyst role, where I can help organizations proactively identify vulnerabilities, mitigate emerging threats, and strengthen overall security operations.
+I am eager to leverage my communication and technical aptitude to add value in a Security Analyst role, where I can help organizations proactively identify vulnerabilities, mitigate emerging threats, and strengthen overall security operations. Thank you for visiting!
 
 Steven aka 9purp0s3
 
