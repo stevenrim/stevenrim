@@ -74,10 +74,7 @@ Steven aka 9purp0s3
 <a href="https://github.com/stevenrim/threathunt1">
   <img src="https://img.shields.io/badge/-CTF Threat Hunt Report: Uncovering a Data Breach with MDE-000000?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<br> 
-<a href="">
-  <img src="https://img.shields.io/badge/-CTF THM ADVENT OF CYBER 2024-000000?&style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+
 
 ## 🏅 Completed Certifications & Training 
 <table>
