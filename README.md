@@ -26,10 +26,6 @@ Steven aka 9purp0s3
   <img src="https://img.shields.io/badge/-Automating EDR with Defender for Endpoint-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 <br>
-<a href="https://medium.com/@stevenrim/threat-hunt-report-public-exposure-715f1befb669">
-  <img src="https://img.shields.io/badge/-Threat Hunt Report: Public Exposure-000000?&style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-<br>
 <a href="https://github.com/stevenrim/threathuntrepo/blob/main/README.md">
   <img src="https://img.shields.io/badge/-Threat Hunt Repository-000000?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
