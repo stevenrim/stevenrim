@@ -52,6 +52,10 @@ Steven aka 9purp0s3
   <img src="https://img.shields.io/badge/-Building a Keylogger w/Python-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 <br>
+<a href="https://medium.com/@stevenrim/kerberoasting-in-active-directory-3931cb37e322">
+  <img src="https://img.shields.io/badge/-Kerberoasting in Active Directory-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
+<br>
 <a href="https://static.vecteezy.com/system/resources/previews/022/655/961/non_2x/work-in-progress-rubber-stamp-work-in-progress-grunge-stamp-seal-illustration-vector.jpg">
   <img src="https://img.shields.io/badge/-Security Audits Tools (coming soon)-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
