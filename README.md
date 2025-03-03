@@ -1,7 +1,7 @@
 # Steven's Cybersecurity Portfolio
 [![My Skills](https://skillicons.dev/icons?i=windows,powershell,kali,bash,azure,python,visualstudio&theme=dark&perline=25)](https://skillicons.dev)
 
-I am an aspiring Security Analyst with a strong foundation in security operations, threat detection, and vulnerability management. My hands-on experience includes SIEM and EDR solutions, log analysis, and incident response. I have completed multiple projects, labs, and certifications, including Security+ and TryHackMe SOC Level 1, and I am currently studying for the Associate of (ISC)² designation as I work toward becoming a leader in cybersecurity.
+I am an aspiring Security Analyst with a strong foundation in security operations, threat detection, and vulnerability management. My hands-on experience includes SIEM and EDR solutions, log analysis, and incident response. I have completed multiple projects, labs, and certifications, including Security+ and TryHackMe SOC Level 1, and I am currently studying for the Associate of (ISC)² designation as I work toward strengthening my core knowledge.
 
 This portfolio showcases practical security projects, threat-hunting exercises, and incident response cases, demonstrating my ability to analyze, detect, and mitigate threats in real-world environments.
 
