@@ -88,5 +88,14 @@ Steven aka 9purp0s3
   </tr>
 </table>
 
+## 🚀 [Exclusive Cyber Range Opportunity](https://www.skool.com/cyber-range/about?ref=fe122f59302e41e0be49bdbab5d35d75)– Only 960 Spots Available!
+
+I’m part of Josh Madakor’s Cyber Range, a hands-on learning environment where you can gain real-world experience in a live production SOC (Security Operations Center). You’ll get to work with enterprise-level cybersecurity tools like Tenable, Microsoft Sentinel, Defender for Endpoint, and Azure VMs to build your skills.
+
+🔹 Available Courses: Vulnerability Management, Threat Hunting, and Incident Response
+🎙️ Weekly Live Sessions: Get answers to your questions and discuss IT/cybersecurity career paths with experts!
+
+Don’t miss out—spaces are limited!
+
 
 
