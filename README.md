@@ -50,7 +50,7 @@
 </a>
 <br>
 <a href="https://static.vecteezy.com/system/resources/previews/022/655/961/non_2x/work-in-progress-rubber-stamp-work-in-progress-grunge-stamp-seal-illustration-vector.jpg">
-  <img src="https://img.shields.io/badge/-Security Audits Tools (coming soon)-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Custom Ducky Scripts for Hak5 BashBunny and RubberDucky-000000?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ## 🌐 Network and System Administration Projects
