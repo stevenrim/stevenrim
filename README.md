@@ -1,11 +1,6 @@
 # Steven's Cybersecurity Portfolio
 [![My Skills](https://skillicons.dev/icons?i=windows,powershell,kali,bash,azure,python,visualstudio&theme=dark&perline=25)](https://skillicons.dev)
 
-I am an aspiring Security Analyst with a strong foundation in security operations, threat detection, and vulnerability management. My hands-on experience includes working with SIEM and EDR solutions, conducting log analysis, and responding to security incidents. I have completed multiple projects, labs, and certifications, including Security+ and TryHackMe SOC Level 1, and I am currently studying for the Associate of (ISC)² designation to deepen my expertise.
-
-This portfolio showcases practical security projects, threat-hunting exercises, and incident response cases, demonstrating my ability to analyze, detect, and mitigate threats in real-world environments.
-
-Steven aka 9purp0s3
 
 ## 🚨 Security Operations, Incident Response, & Threat Hunting Projects
 <a href="https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147">
