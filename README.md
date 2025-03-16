@@ -1,8 +1,8 @@
 # Steven's Cybersecurity Portfolio
 [![My Skills](https://skillicons.dev/icons?i=windows,powershell,kali,bash,azure,python,visualstudio&theme=dark&perline=25)](https://skillicons.dev)
-```
-Disclaimer
 
+## ⚠ Disclaimer
+```
 All projects and demonstrations in this portfolio are for educational and ethical cybersecurity research only. Every
 technique and tool was used legally within approved environments, adhering to ethical hacking principles, legal
 regulations, and responsible disclosure practices. Unauthorized use of these methods on systems without explicit
