@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/-Kerberoasting in Active Directory-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 <br>
-<a href="https://static.vecteezy.com/system/resources/previews/022/655/961/non_2x/work-in-progress-rubber-stamp-work-in-progress-grunge-stamp-seal-illustration-vector.jpg">
+<a href="https://github.com/stevenrim/duckyscripts/">
   <img src="https://img.shields.io/badge/-Custom Ducky Script Repository-000000?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
