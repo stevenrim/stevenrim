@@ -75,10 +75,10 @@
     <td>THM SOC Level 1</td>
   </tr>
   <tr>  
-    <td><a href="https://www.credly.com/badges/806e2f2e-f9c0-4081-9304-6f492136c153/"><img src="https://github.com/stevenrim/stevenrim/blob/main/securityplus.jpg" width="225" height="140"/></a></td>
-    <td><a href="https://www.credly.com/badges/c5dc51ac-beae-45ef-b27b-a060075191e3/"><img src="https://github.com/stevenrim/stevenrim/blob/main/googlecybersecurity.jpg" width="225" height="140"/></a>
-    <td><a href="https://app.kajabi.com/certificates/72ada0d2"><img src="https://github.com/stevenrim/stevenrim/blob/main/masterclassleveld.jpg" width="225" height="140"/></a></td>
-    <td><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SUPLNG2XBJ.png"><img src="https://github.com/stevenrim/stevenrim/blob/main/thmsoc1.jpg" width="225" height="140"/></a></td>
+    <td><a href="https://www.credly.com/badges/806e2f2e-f9c0-4081-9304-6f492136c153/"><img src="https://github.com/stevenrim/stevenrim/blob/main/securityplus.jpg" width="225" height="130"/></a></td>
+    <td><a href="https://www.credly.com/badges/c5dc51ac-beae-45ef-b27b-a060075191e3/"><img src="https://github.com/stevenrim/stevenrim/blob/main/googlecybersecurity.jpg" width="225" height="130"/></a>
+    <td><a href="https://app.kajabi.com/certificates/72ada0d2"><img src="https://github.com/stevenrim/stevenrim/blob/main/masterclassleveld.jpg" width="225" height="130"/></a></td>
+    <td><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SUPLNG2XBJ.png"><img src="https://github.com/stevenrim/stevenrim/blob/main/thmsoc1.jpg" width="225" height="130"/></a></td>
   </tr>
 </table>
 
