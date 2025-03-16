@@ -83,11 +83,8 @@
 </table>
 
 ## 🧠 In Progress Certifications & Training 
-<table>
-  <tr>  
-    <td><a href="https://static.vecteezy.com/system/resources/previews/022/655/961/non_2x/work-in-progress-rubber-stamp-work-in-progress-grunge-stamp-seal-illustration-vector.jpg"><img src="https://img.shields.io/badge/-Associate of ISC2-2a3042?&style=for-the-badge&logoColor=white"/></a></td>
-  </tr>
-</table>
+<a href="https://static.vecteezy.com/system/resources/previews/022/655/961/non_2x/work-in-progress-rubber-stamp-work-in-progress-grunge-stamp-seal-illustration-vector.jpg"><img src="https://img.shields.io/badge/-Associate of ISC2-2a3042?&style=for-the-badge&logoColor=white"/></a>
+
 
 
 <br>
