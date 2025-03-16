@@ -68,11 +68,17 @@
 
 ## 🏅 Completed Certifications & Training 
 <table>
+  <tr>
+    <td>CompTIA Security+</td>
+    <td>Google Cybersecurity</td>
+    <td>Leveld SOC Analyst</td>
+    <td>THM SOC Level 1</td>
+  </tr>
   <tr>  
-    <td><a href="https://www.credly.com/badges/806e2f2e-f9c0-4081-9304-6f492136c153/"><img src="https://img.shields.io/badge/-CompTIA Security%2B-FF0000?&style=for-the-badge&logoColor=white"/></a></td>
-    <td><a href="https://www.credly.com/badges/c5dc51ac-beae-45ef-b27b-a060075191e3/"><img src="https://img.shields.io/badge/-Google Cybersecurity-000080?&style=for-the-badge&logoColor=white"/></a>
-    <td><a href="https://app.kajabi.com/certificates/72ada0d2"><img src="https://img.shields.io/badge/-SOC Analyst Masterclass-000080?&style=for-the-badge&logoColor=white"/></a></td>
-    <td><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SUPLNG2XBJ.png"><img src="https://img.shields.io/badge/-TryHackMe SOC Level 1-2a3042?&style=for-the-badge&logoColor=white"/></a></td>
+    <td><a href="https://www.credly.com/badges/806e2f2e-f9c0-4081-9304-6f492136c153/"><img src="https://github.com/stevenrim/stevenrim/blob/main/securityplus.jpg" width="225" height="140"/></a></td>
+    <td><a href="https://www.credly.com/badges/c5dc51ac-beae-45ef-b27b-a060075191e3/"><img src="https://github.com/stevenrim/stevenrim/blob/main/googlecybersecurity.jpg" width="225" height="140"/></a>
+    <td><a href="https://app.kajabi.com/certificates/72ada0d2"><img src="https://github.com/stevenrim/stevenrim/blob/main/masterclassleveld.jpg" width="225" height="140"/></a></td>
+    <td><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SUPLNG2XBJ.png"><img src="https://github.com/stevenrim/stevenrim/blob/main/thmsoc1.jpg" width="225" height="140"/></a></td>
   </tr>
 </table>
 
