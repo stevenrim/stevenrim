@@ -57,7 +57,7 @@ before conducting security assessments.
   <img src="https://img.shields.io/badge/-Kerberoasting in Active Directory-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 <br>
-<a href="https://github.com/stevenrim/duckyscripts/">
+<a href="https://github.com/stevenrim/duckyscripts/blob/main/README.md">
   <img src="https://img.shields.io/badge/-Custom Ducky Script Repository-000000?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
