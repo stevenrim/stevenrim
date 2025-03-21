@@ -10,7 +10,7 @@ permission is illegal and strictly discouraged. Always follow legal guidelines a
 before conducting security assessments.
 ```
 
-## 🚨 SecOps, IR, & Threat Hunting Projects <a><img src="https://img.shields.io/badge/AZURE-grey"/></a> <a><img src="https://img.shields.io/badge/SENTINEL-grey"/> </a><a><img src="https://img.shields.io/badge/DEFENDER FOR ENDPOINT-grey"/> </a><a><img src="https://img.shields.io/badge/KUSTO QUERY LANGUAGE-grey"/></a>
+## 🚨 SecOps, IR, & Threat Hunting Projects <a><img src="https://img.shields.io/badge/AZURE-grey"/></a> <a><img src="https://img.shields.io/badge/SENTINEL-grey"/> </a><a><img src="https://img.shields.io/badge/DEFENDER FOR ENDPOINT-grey"/> </a><a><img src="https://img.shields.io/badge/KQL-grey"/></a>
 
 <a href="https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147">
   <img src="https://img.shields.io/badge/-Cloud Honeynet and SOC w/Azure-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
