@@ -75,13 +75,12 @@ before conducting security assessments.
 </a>
 
 ## 🛠️ Training Platforms
-
 <a href=""><img src="https://img.shields.io/badge/HACKTHEBOX-green"/></a>
 <a href=""><img src="https://img.shields.io/badge/TRYHACKME-grey"/></a>
 <a href=""><img src="https://img.shields.io/badge/LETSDEFEND-teal"/></a>
 
 
-## 🏅 Completed Certifications & Training 
+## 🏅 Completed Certifications 
 <table>
   <tr>
     <td>CompTIA Security+</td>
@@ -97,8 +96,9 @@ before conducting security assessments.
   </tr>
 </table>
 
-## 🧠 In Progress Certifications & Training 
-<a href="https://static.vecteezy.com/system/resources/previews/022/655/961/non_2x/work-in-progress-rubber-stamp-work-in-progress-grunge-stamp-seal-illustration-vector.jpg"><img src="https://img.shields.io/badge/-Associate of ISC2-2a3042?&style=for-the-badge&logoColor=white"/></a>
+## 🧠 In Progress Certifications & Education
+<a href=""><img src="https://img.shields.io/badge/ASSOCIATE OF ISC2-228B22"/></a>
+<a href=""><img src="https://img.shields.io/badge/MS CYBERSECURITY-gold"/></a>
 
 
 
