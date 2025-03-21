@@ -46,7 +46,7 @@ before conducting security assessments.
   <img src="https://img.shields.io/badge/-Vulnerability Scans w/Tenable Nessus-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 
-## 💻 Ethical Hacking Projects <a><img src="https://img.shields.io/badge/OWASP-grey"/></a> <a><img src="https://img.shields.io/badge/RASPBERRYPI-grey"/></a> <a><img src="https://img.shields.io/badge/PYTHON-grey"/></a> <a><img src="https://img.shields.io/badge/DUCKY SCRIPT-grey"/></a> <a><img src="https://img.shields.io/badge/ACTIVE DIRECTORY-grey"/></a> <a><img src="https://img.shields.io/badge/BURPSUITE-grey"/></a> <a><img src="https://img.shields.io/badge/VISUAL STUDIO-grey"/></a>
+## 💻 Ethical Hacking Projects <a><img src="https://img.shields.io/badge/OWASP-grey"/></a> <a><img src="https://img.shields.io/badge/RASPBERRYPI-grey"/></a> <a><img src="https://img.shields.io/badge/PYTHON-grey"/></a> <a><img src="https://img.shields.io/badge/DUCKY SCRIPT-grey"/></a> <a><img src="https://img.shields.io/badge/BURPSUITE-grey"/></a> <a><img src="https://img.shields.io/badge/VISUAL STUDIO-grey"/></a>
 
 <a href="https://medium.com/@stevenrim/owasp-juice-shop-10-2-for-arm64-raspberry-pi-5-68c28c046ccd">
   <img src="https://img.shields.io/badge/-Exploiting Vulnerabilities on OWASP Juice Shop-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
