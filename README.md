@@ -80,8 +80,9 @@ before conducting security assessments.
 
 ## 🛠️ Training Platforms
 <a href=""><img src="https://img.shields.io/badge/HACKTHEBOX-green"/></a>
-<a href=""><img src="https://img.shields.io/badge/TRYHACKME-grey"/></a>
+<a href=""><img src="https://img.shields.io/badge/TRYHACKME-white"/></a>
 <a href=""><img src="https://img.shields.io/badge/LETSDEFEND-teal"/></a>
+<a href=""><img src="https://img.shields.io/badge/NETWORKCHUCK ACADEMY-grey"/></a>
 
 
 ## 🏅 Completed Certifications 
