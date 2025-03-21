@@ -27,15 +27,11 @@ before conducting security assessments.
   <img src="https://img.shields.io/badge/-Automating EDR with Defender for Endpoint-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 <br>
-<a href="">
-  <img src="https://img.shields.io/badge/-HackTheBox Repository-000000?&style=for-the-badge&logo=hackthebox&logoColor=white"/>
-</a>
-<br>
 <a href="https://github.com/stevenrim/threathuntrepo/blob/main/README.md">
   <img src="https://img.shields.io/badge/-Threat Hunt Repository-000000?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-## 🛠️ Vulnerability Management Projects
+## 🛡️ Vulnerability Management Projects
 <a href="https://medium.com/@stevenrim/vulnerability-management-program-implementation-0fad4462c688">
   <img src="https://img.shields.io/badge/-Full Vulnerability Management Program-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
@@ -77,6 +73,13 @@ before conducting security assessments.
 <a href="https://medium.com/@stevenrim/active-directory-home-lab-w-virtualbox-e07932251a9f">
   <img src="https://img.shields.io/badge/-AD Home Lab w/VirtualBox and PowerShell-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
+
+## 🛠️ Training Platforms
+
+<a href=""><img src="https://img.shields.io/badge/HACKTHEBOX-green"/></a>
+<a href=""><img src="https://img.shields.io/badge/TRYHACKME-grey"/></a>
+<a href=""><img src="https://img.shields.io/badge/LETSDEFEND-teal"/></a>
+
 
 ## 🏅 Completed Certifications & Training 
 <table>
