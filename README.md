@@ -64,7 +64,7 @@ before conducting security assessments.
   <img src="https://img.shields.io/badge/-Custom Ducky Script Repository-000000?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-## 🌐 Network and System Administration Projects <a><img src="https://img.shields.io/badge/POWERSHELL-grey"/></a> <a><img src="https://img.shields.io/badge/NESSUS-grey"/></a> <a><img src="https://img.shields.io/badge/PACKET TRACER-grey"/></a> <a><img src="https://img.shields.io/badge/ACTIVE DIRECTORY-grey"/></a>
+## 🌐 Network and System Administration Projects <a><img src="https://img.shields.io/badge/PACKET TRACER-grey"/></a> <a><img src="https://img.shields.io/badge/ACTIVE DIRECTORY-grey"/></a>
 
 <a href="https://medium.com/@stevenrim/powershell-automation-for-disa-stig-compliance-and-hardening-6515d055d9ef">
   <img src="https://img.shields.io/badge/-PowerShell Automation for DISA STIG Compliance and Hardening-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
