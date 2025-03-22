@@ -1,5 +1,13 @@
 # Steven's Cybersecurity Portfolio
-[![My Skills](https://skillicons.dev/icons?i=windows,powershell,kali,bash,azure,python,visualstudio&theme=dark&perline=25)](https://skillicons.dev)
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/FFFFFF"/> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/FFFFFF"/> <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/FFFFFF"/> <img height="32" width="32" src="https://cdn.simpleicons.org/wireshark/FFFFFF"/> <img height="32" width="32" src="https://cdn.simpleicons.org/metasploit/FFFFFF"/> <img height="32" width="32" src="https://cdn.simpleicons.org/splunk/FFFFFF"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/FFFFFF"/> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/FFFFFF"/> <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/FFFFFF"/> <img height="32" width="32" src="https://cdn.simpleicons.org/wireshark/FFFFFF"/> <img height="32" width="32" src="https://cdn.simpleicons.org/metasploit/FFFFFF"/> <img height="32" width="32" src="https://cdn.simpleicons.org/splunk/FFFFFF"/>
+
+
+
+
+
+
+
 
 ## ⚠ Disclaimer
 ```
