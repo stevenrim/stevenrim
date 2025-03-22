@@ -1,13 +1,4 @@
 # Steven's Cybersecurity Portfolio
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/FFFFFF"/> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/FFFFFF"/> <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/FFFFFF"/> <img height="32" width="32" src="https://cdn.simpleicons.org/wireshark/FFFFFF"/> <img height="32" width="32" src="https://cdn.simpleicons.org/metasploit/FFFFFF"/> <img height="32" width="32" src="https://cdn.simpleicons.org/splunk/FFFFFF"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/FFFFFF"/> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/FFFFFF"/> <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/FFFFFF"/> <img height="32" width="32" src="https://cdn.simpleicons.org/wireshark/FFFFFF"/> <img height="32" width="32" src="https://cdn.simpleicons.org/metasploit/FFFFFF"/> <img height="32" width="32" src="https://cdn.simpleicons.org/splunk/FFFFFF"/>
-
-
-
-
-
-
-
 
 ## ⚠ Disclaimer
 ```
@@ -18,8 +9,7 @@ permission is illegal and strictly discouraged. Always follow legal guidelines a
 before conducting security assessments.
 ```
 
-## 🚨 SecOps, IR, & Threat Hunting Projects <a><img src="https://img.shields.io/badge/AZURE-grey"/></a> <a><img src="https://img.shields.io/badge/SENTINEL-grey"/> </a><a><img src="https://img.shields.io/badge/DEFENDER FOR ENDPOINT-grey"/> </a><a><img src="https://img.shields.io/badge/KQL-grey"/></a>
-
+## 🚨 SecOps, IR, & Threat Hunting Projects 
 <a href="https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147">
   <img src="https://img.shields.io/badge/-Cloud Honeynet and SOC w/Azure-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
@@ -40,8 +30,7 @@ before conducting security assessments.
   <img src="https://img.shields.io/badge/-Threat Hunt Repository-000000?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-## 🛡️ Vulnerability Management Projects <a><img src="https://img.shields.io/badge/AZURE-grey"/></a> <a><img src="https://img.shields.io/badge/NESSUS-grey"/></a> <a><img src="https://img.shields.io/badge/POWERSHELL-grey"/></a>
-
+## 🛡️ Vulnerability Management Projects 
 <a href="https://medium.com/@stevenrim/vulnerability-management-program-implementation-0fad4462c688">
   <img src="https://img.shields.io/badge/-Full Vulnerability Management Program-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
@@ -54,8 +43,7 @@ before conducting security assessments.
   <img src="https://img.shields.io/badge/-Vulnerability Scans w/Tenable Nessus-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 
-## 💻 Ethical Hacking Projects <a><img src="https://img.shields.io/badge/OWASP-grey"/></a> <a><img src="https://img.shields.io/badge/RASPBERRYPI-grey"/></a> <a><img src="https://img.shields.io/badge/PYTHON-grey"/></a> <a><img src="https://img.shields.io/badge/DUCKY SCRIPT-grey"/></a> <a><img src="https://img.shields.io/badge/BURPSUITE-grey"/></a> <a><img src="https://img.shields.io/badge/VISUAL STUDIO-grey"/></a>
-
+## 💻 Ethical Hacking Projects 
 <a href="https://medium.com/@stevenrim/owasp-juice-shop-10-2-for-arm64-raspberry-pi-5-68c28c046ccd">
   <img src="https://img.shields.io/badge/-Exploiting Vulnerabilities on OWASP Juice Shop-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
@@ -72,8 +60,7 @@ before conducting security assessments.
   <img src="https://img.shields.io/badge/-Custom Ducky Script Repository-000000?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-## 🌐 Network and System Administration Projects <a><img src="https://img.shields.io/badge/PACKET TRACER-grey"/></a> <a><img src="https://img.shields.io/badge/ACTIVE DIRECTORY-grey"/></a>
-
+## 🌐 Network and System Administration Projects 
 <a href="https://medium.com/@stevenrim/powershell-automation-for-disa-stig-compliance-and-hardening-6515d055d9ef">
   <img src="https://img.shields.io/badge/-PowerShell Automation for DISA STIG Compliance and Hardening-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
