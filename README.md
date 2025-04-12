@@ -75,7 +75,7 @@ before conducting security assessments.
 
 ## 🛠️ Training Platforms
 <a href=""><img src="https://img.shields.io/badge/HACKTHEBOX-green"/></a>
-<a href=""><img src="https://img.shields.io/badge/TRYHACKME-white"/></a>
+<a href="https://tryhackme.com/p/9purp0s3"><img src="https://img.shields.io/badge/TRYHACKME-white"/></a>
 
 
 
