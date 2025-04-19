@@ -102,6 +102,6 @@ before conducting security assessments.
 ## 🧠 In Progress Certifications & Education
 <a href=""><img src="https://img.shields.io/badge/ASSOCIATE OF ISC2-228B22"/></a>
 <a href=""><img src="https://img.shields.io/badge/MS CYBERSECURITY-gold"/></a>
-
-
+<a href=""><img src="https://img.shields.io/badge/CSA CCSK v5-blue"/></a>
+<a href=""><img src="https://img.shields.io/badge/CSA CCZT-green"/></a>
 
