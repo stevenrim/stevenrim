@@ -27,7 +27,7 @@ before conducting security assessments.
 </a>
 <br>
 <a href="">
-  <img src="https://img.shields.io/badge/-Zero Trust Remote Access Gateway w/RPi5 and Twingate-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Remote Network Monitoring with RPI5 Dropbox and Twingate-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 <br>
 <a href="https://github.com/stevenrim/threathuntrepo/blob/main/README.md">
