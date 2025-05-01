@@ -105,3 +105,5 @@ authorization before conducting security assessments.
 <a href=""><img src="https://img.shields.io/badge/CSA CCSK v5-blue"/></a>
 <a href=""><img src="https://img.shields.io/badge/CSA CCZT-green"/></a>
 
+## 📄 Steven's Resume 
+<a href="https://github.com/user-attachments/files/20002147/Steven.Rim.Resume.2025.pdf"><img src="https://img.shields.io/badge/Resume Link-FF5F1F"/></a>
