@@ -26,10 +26,6 @@ before conducting security assessments.
   <img src="https://img.shields.io/badge/-Automating EDR with Defender for Endpoint-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 <br>
-<a href="">
-  <img src="https://img.shields.io/badge/-Remote Network Monitoring with RPI5 Dropbox and Twingate-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
-</a>
-<br>
 <a href="https://github.com/stevenrim/threathuntrepo/blob/main/README.md">
   <img src="https://img.shields.io/badge/-Threat Hunt Repository-000000?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
