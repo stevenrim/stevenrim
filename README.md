@@ -9,7 +9,11 @@ explicit permission is illegal and strictly discouraged. Always follow legal gui
 authorization before conducting security assessments.
 ```
 
-## 🚨 SecOps, IR, & Threat Hunting Projects 
+## 🚨 SecOps, IR, & Threat Hunting Projects
+<a href="https://medium.com/@stevenrim/soc-automation-with-splunk-active-directory-soar-b121465b08b9">
+  <img src="https://img.shields.io/badge/-SOC Automation w/Splunk, Active Directory, and SOAR-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
+<br>
 <a href="https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147">
   <img src="https://img.shields.io/badge/-Cloud Honeynet and SOC w/Azure-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
