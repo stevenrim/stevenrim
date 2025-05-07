@@ -31,12 +31,9 @@ authorization before conducting security assessments.
 </a>
 <br>
 <a href="https://github.com/stevenrim/threathuntrepo/blob/main/README.md">
-  <img src="https://img.shields.io/badge/-Threat Hunt Repository-000000?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Threat Hunt and IR Repository-000000?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<br>
-<a href="https://github.com/stevenrim/incidentresponserepo/blob/main/README.md">
-  <img src="https://img.shields.io/badge/-Incident Response Repository-000000?&style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+
 
 ## 🛡️ Vulnerability Management Projects 
 <a href="https://medium.com/@stevenrim/vulnerability-management-program-implementation-0fad4462c688">
