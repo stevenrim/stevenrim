@@ -106,6 +106,6 @@ authorization before conducting security assessments.
 
 
 ## 📄 Steven's Resume 
-<a href="https://github.com/user-attachments/files/20075241/Steven.Rim.Git.2025.pdf"><img src="https://img.shields.io/badge/Resume Link-FF5F1F"/></a>
+<a href=""><img src="https://img.shields.io/badge/Resume Link-FF5F1F"/></a>
 
 
