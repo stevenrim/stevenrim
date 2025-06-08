@@ -78,9 +78,16 @@ authorization before conducting security assessments.
   <img src="https://img.shields.io/badge/-AD Home Lab w/VirtualBox and PowerShell-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 
+## 🧭 IT Governance and Planning Projects
+<a href="https://medium.com/@stevenrim/shifting-it-security-in-house-my-blueprint-229ea250ba39">
+  <img src="https://img.shields.io/badge/-Shifting IT and Security In House: My Blueprint-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
+
 ## 🛠️ Training Platforms
 <a href=""><img src="https://img.shields.io/badge/HACKTHEBOX-green"/></a>
 <a href="https://tryhackme.com/p/9purp0s3"><img src="https://img.shields.io/badge/TRYHACKME-white"/></a>
+
+
 
 
 
