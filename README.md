@@ -101,7 +101,7 @@ authorization before conducting security assessments.
 </table>
 
 ## 🧠 In Progress Certifications & Education
-<a href=""><img src="https://img.shields.io/badge/ASSOCIATE OF ISC2-228B22"/></a>
+<a href=""><img src="https://img.shields.io/badge/NETWORK+-FF0000"/></a>
 <a href=""><img src="https://img.shields.io/badge/MS CYBERSECURITY-gold"/></a>
 
 
