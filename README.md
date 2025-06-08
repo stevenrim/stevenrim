@@ -105,7 +105,3 @@ authorization before conducting security assessments.
 <a href=""><img src="https://img.shields.io/badge/MS CYBERSECURITY-gold"/></a>
 
 
-## 📄 Steven's Resume 
-<a href=""><img src="https://img.shields.io/badge/Resume Link-FF5F1F"/></a>
-
-
