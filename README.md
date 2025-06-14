@@ -84,8 +84,13 @@ authorization before conducting security assessments.
 </a>
 
 ## 🛠️ Training Platforms
-<a href=""><img src="https://img.shields.io/badge/HACKTHEBOX-green"/></a>
-<a href="https://tryhackme.com/p/9purp0s3"><img src="https://img.shields.io/badge/TRYHACKME-white"/></a>
+<a href="">
+  <img src="https://img.shields.io/badge/-HACKTHEBOX LABS-000000?&style=for-the-badge&logo=hackthebox&logoColor=39FF14"/>
+</a>
+<br>
+<a href="">
+  <img src="https://img.shields.io/badge/-HACKTHEBOX ACADEMY-000000?&style=for-the-badge&logo=hackthebox&logoColor=39FF14"/>
+</a>
 
 
 
