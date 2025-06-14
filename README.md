@@ -84,7 +84,7 @@ authorization before conducting security assessments.
 </a>
 
 ## 🛠️ Training Platforms
-<a href="">
+<a href="https://github.com/stevenrim/htblabs/blob/main/README.md">
   <img src="https://img.shields.io/badge/-HACKTHEBOX LABS-000000?&style=for-the-badge&logo=hackthebox&logoColor=39FF14"/>
 </a>
 <br>
