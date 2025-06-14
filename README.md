@@ -88,7 +88,7 @@ authorization before conducting security assessments.
   <img src="https://img.shields.io/badge/-HACKTHEBOX LABS-000000?&style=for-the-badge&logo=hackthebox&logoColor=39FF14"/>
 </a>
 <br>
-<a href="">
+<a href="https://github.com/stevenrim/htbacademy/blob/main/README.md">
   <img src="https://img.shields.io/badge/-HACKTHEBOX ACADEMY-000000?&style=for-the-badge&logo=hackthebox&logoColor=39FF14"/>
 </a>
 
