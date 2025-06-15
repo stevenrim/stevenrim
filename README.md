@@ -8,14 +8,73 @@ legal regulations, and responsible disclosure practices. Unauthorized use of the
 explicit permission is illegal and strictly discouraged. Always follow legal guidelines and obtain proper
 authorization before conducting security assessments.
 ```
-
 ## 🚨 SecOps, IR, & Threat Hunting Projects
-<a href="https://medium.com/@stevenrim/soc-automation-with-splunk-active-directory-soar-b121465b08b9">
-  <img src="https://img.shields.io/badge/-SOC Automation w/Splunk, Active Directory, and SOAR-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
-</a>
-<br>
-<a href="https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147">
-  <img src="https://img.shields.io/badge/-Cloud Honeynet and SOC w/Azure-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/688c75a4-24d8-40b4-94e4-dd967a732a82" width="150"/></td>
+    <td>
+      ✅ <strong>Project:</strong> SOC Automation w/Splunk, Active Directory, and SOAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+      ✅ <strong>Tools:</strong> zzz<br>
+      ✅ <strong>Link:</strong> <a href="https://medium.com/@stevenrim/soc-automation-with-splunk-active-directory-soar-b121465b08b9">Read More</a>
+    </td>
+  </tr>
+
+ <tr>
+    <td><img src="https://github.com/user-attachments/assets/34f9dc71-d905-4d07-a3bd-5db8fcd5d236" width="150"/></td>
+    <td>
+      ✅ <strong>Project:</strong> Cloud Honeynet and SOC w/Azure<br>
+      ✅ <strong>Tools:</strong> zzz<br>
+      ✅ <strong>Link:</strong> <a href="https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147">Read More</a>
+    </td>
+  </tr>
+
+ <tr>
+    <td><img src="https://github.com/user-attachments/assets/688c75a4-24d8-40b4-94e4-dd967a732a82" width="150"/></td>
+    <td>
+      ✅ <strong>Project:</strong> SOC Automation w/Splunk, Active Directory, and SOAR<br>
+      ✅ <strong>Tools:</strong> Splunk, SOAR, AD, MITRE ATT&CK, PowerShell<br>
+      ✅ <strong>Link:</strong> <a href="https://medium.com/@stevenrim/soc-automation-with-splunk-active-directory-soar-b121465b08b9">Read More</a>
+    </td>
+  </tr>
+
+ <tr>
+    <td><img src="https://github.com/user-attachments/assets/688c75a4-24d8-40b4-94e4-dd967a732a82" width="150"/></td>
+    <td>
+      ✅ <strong>Project:</strong> SOC Automation w/Splunk, Active Directory, and SOAR<br>
+      ✅ <strong>Tools:</strong> Splunk, SOAR, AD, MITRE ATT&CK, PowerShell<br>
+      ✅ <strong>Link:</strong> <a href="https://medium.com/@stevenrim/soc-automation-with-splunk-active-directory-soar-b121465b08b9">Read More</a>
+    </td>
+  </tr>
+
+   <tr>
+    <td><img src="https://github.com/user-attachments/assets/688c75a4-24d8-40b4-94e4-dd967a732a82" width="150"/></td>
+    <td>
+      ✅ <strong>Project:</strong> SOC Automation w/Splunk, Active Directory, and SOAR<br>
+      ✅ <strong>Tools:</strong> Splunk, SOAR, AD, MITRE ATT&CK, PowerShell<br>
+      ✅ <strong>Link:</strong> <a href="https://medium.com/@stevenrim/soc-automation-with-splunk-active-directory-soar-b121465b08b9">Read More</a>
+    </td>
+  </tr>
+
+   <tr>
+    <td><img src="https://github.com/user-attachments/assets/688c75a4-24d8-40b4-94e4-dd967a732a82" width="150"/></td>
+    <td>
+      ✅ <strong>Project:</strong> SOC Automation w/Splunk, Active Directory, and SOAR<br>
+      ✅ <strong>Tools:</strong> Splunk, SOAR, AD, MITRE ATT&CK, PowerShell<br>
+      ✅ <strong>Link:</strong> <a href="https://medium.com/@stevenrim/soc-automation-with-splunk-active-directory-soar-b121465b08b9">Read More</a>
+    </td>
+  </tr>
+
+  
+  </table>
+
+
+
+
+
+
+
+<a href="">
+  <img src="https://img.shields.io/badge/--000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 <br>
 <a href="https://medium.com/@stevenrim/virtual-attacks-and-splunk-insights-b892468cbec9">
