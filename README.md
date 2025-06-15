@@ -13,7 +13,7 @@ authorization before conducting security assessments.
   <tr>
     <td><img src="https://github.com/user-attachments/assets/688c75a4-24d8-40b4-94e4-dd967a732a82" width="150"/></td>
     <td>
-      ✅ <strong>Project:</strong> SOC Automation w/Splunk, Active Directory, and SOAR<br>
+      ✅ <strong>Project:</strong> SOC Automation w/Splunk, Active Directory, and SOAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
       ✅ <strong>Tools:</strong> zzz<br>
       ✅ <strong>Link:</strong> <a href="https://medium.com/@stevenrim/soc-automation-with-splunk-active-directory-soar-b121465b08b9">Read More</a>
     </td>
