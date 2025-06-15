@@ -83,14 +83,6 @@ authorization before conducting security assessments.
   <img src="https://img.shields.io/badge/-Shifting IT and Security In House: My Blueprint-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 
-## 🛠️ HTB Labs & Academy Repository
-<a href="https://github.com/stevenrim/htblabs/blob/main/README.md">
-  <img src="https://img.shields.io/badge/-HACKTHEBOX LABS-000000?&style=for-the-badge&logo=hackthebox&logoColor=39FF14"/>
-</a>
-<br>
-<a href="https://github.com/stevenrim/htbacademy/blob/main/README.md">
-  <img src="https://img.shields.io/badge/-HACKTHEBOX ACADEMY-000000?&style=for-the-badge&logo=hackthebox&logoColor=39FF14"/>
-</a>
 
 
 
