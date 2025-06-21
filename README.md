@@ -9,9 +9,12 @@ explicit permission is illegal and strictly discouraged. Always follow legal gui
 authorization before conducting security assessments.
 ```
 ## 🚨 SecOps, IR, & Threat Hunting Projects
+<a href="https://medium.com/@stevenrim/virtual-attacks-and-splunk-insights-b892468cbec9">
+  <img src="https://img.shields.io/badge/-Simulating Attacks, Detecting Threats, and Mapping TTPs-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
 <br>
-<a href="">
-  <img src="https://img.shields.io/badge/--000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+<a href="https://medium.com/@stevenrim/soc-automation-with-splunk-active-directory-soar-b121465b08b9">
+  <img src="https://img.shields.io/badge/-SOC Automation with Splunk, Active Directory and SOAR-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 <br>
 <a href="https://medium.com/@stevenrim/automating-security-workflow-w-limacharlie-and-tines-020ee72ee340">
