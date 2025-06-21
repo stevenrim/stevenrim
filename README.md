@@ -101,7 +101,8 @@ authorization before conducting security assessments.
 
 ## 🧠 In Progress Certifications & Education
 <a href=""><img src="https://img.shields.io/badge/NETWORK+-FF0000"/></a>
-<a href=""><img src="https://img.shields.io/badge/CCSK/CCZT-2E6F40"/></a>
+<a href=""><img src="https://img.shields.io/badge/PHDA-purple"/></a>
+<a href=""><img src="https://img.shields.io/badge/CCSK/CCZT-blue"/></a>
 <a href=""><img src="https://img.shields.io/badge/MS CYBERSECURITY-gold"/></a>
 
 
