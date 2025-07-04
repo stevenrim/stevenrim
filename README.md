@@ -79,9 +79,6 @@ authorization before conducting security assessments.
 </a>
 
 
-## 🧑‍💻 HackTheBox Labs & Academy
-<a href="www.google.com"><img src="https://img.shields.io/badge/-HTB Detecting Active Directory Attacks-blue?&style=for-the-badge&logo=hackthebox&logoColor=white"/></a>
-
 
 ## 🏅 Completed Certifications 
 <table>
