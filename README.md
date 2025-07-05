@@ -43,7 +43,11 @@ authorization before conducting security assessments.
   <img src="https://img.shields.io/badge/-Vulnerability Scans w/Tenable Nessus-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 
-## 💻 Ethical Hacking Projects 
+## 💻 Ethical Hacking Projects
+<a href="https://medium.com/@stevenrim/back-to-kali-securing-reverse-shell-access-563f2793cc07">
+  <img src="https://img.shields.io/badge/-Back to Kali: Securing Reverse Shell Access-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
+<br>
 <a href="https://medium.com/@stevenrim/owasp-juice-shop-10-2-for-arm64-raspberry-pi-5-68c28c046ccd">
   <img src="https://img.shields.io/badge/-Exploiting Vulnerabilities on OWASP Juice Shop-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
