@@ -77,6 +77,7 @@ authorization before conducting security assessments.
   <img src="https://img.shields.io/badge/-AD Home Lab w/VirtualBox and PowerShell-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 
+## 🌐 GRC Projects
 
 
 
