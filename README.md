@@ -8,6 +8,8 @@ legal regulations, and responsible disclosure practices. Unauthorized use of the
 explicit permission is illegal and strictly discouraged. Always follow legal guidelines and obtain proper
 authorization before conducting security assessments.
 ```
+## 🌐 GRC Projects
+
 ## 🚨 SecOps, IR, & Threat Hunting Projects
 <a href="https://medium.com/@stevenrim/virtual-attacks-and-splunk-insights-b892468cbec9">
   <img src="https://img.shields.io/badge/-Simulating Attacks, Detecting Threats, and Mapping TTPs-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
@@ -77,7 +79,7 @@ authorization before conducting security assessments.
   <img src="https://img.shields.io/badge/-AD Home Lab w/VirtualBox and PowerShell-000000?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 
-## 🌐 GRC Projects
+
 
 
 
