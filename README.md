@@ -8,7 +8,7 @@ legal regulations, and responsible disclosure practices. Unauthorized use of the
 explicit permission is illegal and strictly discouraged. Always follow legal guidelines and obtain proper
 authorization before conducting security assessments.
 ```
-## 🌐 GRC Projects
+## 📊 GRC Projects
 coming soon...
 
 
@@ -28,7 +28,9 @@ coming soon...
 - [Windows 10 Vulnerabilities: Scan, Script &amp; Secure](https://medium.com/@stevenrim/windows-10-vulnerabilities-scan-script-secure-9e15590bdd27?source=rss-d99c2dfdaa46------2)
 <!-- BLOG-POST-LIST:END -->
 
-
+## 🌐 Git Repositories
+- [Threat Hunt Repository](https://github.com/stevenrim/threathuntrepo/blob/main/README.md)
+- [Ducky Script Repository](https://github.com/stevenrim/duckyscripts/blob/main/README.md)
 
 
 
