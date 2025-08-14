@@ -10,7 +10,8 @@ authorization before conducting security assessments.
 ```
 ## 📊 GRC Projects
 coming soon...
-
+- InfoSec Management System
+- GRC Sentinel AI
 
 
 
