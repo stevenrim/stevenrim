@@ -19,7 +19,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@stevenrim"
-          max_post_count: 10
+          max_post_count: 20
           commit_message: "chore: update latest Medium posts"
           # Optional formatting:
           # template: "- [$title]($url) — $date"
