@@ -84,6 +84,16 @@ authorization before conducting security assessments.
 ## MEDIUM
 ### Latest on Medium
 <!-- BLOG-POST-LIST:START -->
+- [Back to Kali: Securing Reverse Shell Access](https://medium.com/@stevenrim/back-to-kali-securing-reverse-shell-access-563f2793cc07?source=rss-d99c2dfdaa46------2)
+- [SOC Automation with Splunk, Active Directory &amp; SOAR](https://medium.com/@stevenrim/soc-automation-with-splunk-active-directory-soar-b121465b08b9?source=rss-d99c2dfdaa46------2)
+- [Ogres Have Layers, Networks Have Layers…](https://medium.com/@stevenrim/ogres-have-layers-networks-have-layers-6a3f36510f57?source=rss-d99c2dfdaa46------2)
+- [Threat Hunt Report: Sudden Network Slowdowns](https://medium.com/@stevenrim/threat-hunt-report-sudden-network-slowdowns-a10730cda525?source=rss-d99c2dfdaa46------2)
+- [Kerberoasting in Active Directory](https://medium.com/@stevenrim/kerberoasting-in-active-directory-3931cb37e322?source=rss-d99c2dfdaa46------2)
+- [Threat Hunt Report: Public Exposure](https://medium.com/@stevenrim/threat-hunt-report-public-exposure-715f1befb669?source=rss-d99c2dfdaa46------2)
+- [Automating EDR with Defender for Endpoint](https://medium.com/@stevenrim/generating-and-analyzing-endpoint-activity-logs-in-mde-e7535699ab15?source=rss-d99c2dfdaa46------2)
+- [PowerShell Automation for DISA STIG Compliance and Hardening](https://medium.com/@stevenrim/powershell-automation-for-disa-stig-compliance-and-hardening-6515d055d9ef?source=rss-d99c2dfdaa46------2)
+- [Vulnerability Management Program Implementation](https://medium.com/@stevenrim/vulnerability-management-program-implementation-0fad4462c688?source=rss-d99c2dfdaa46------2)
+- [Windows 10 Vulnerabilities: Scan, Script &amp; Secure](https://medium.com/@stevenrim/windows-10-vulnerabilities-scan-script-secure-9e15590bdd27?source=rss-d99c2dfdaa46------2)
 <!-- BLOG-POST-LIST:END -->
 
 
