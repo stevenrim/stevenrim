@@ -82,55 +82,10 @@ authorization before conducting security assessments.
 
 
 ## MEDIUM
-<!-- Recent article 0 -->
-<a href="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/0" target="_blank" rel="noopener">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/0?cb=0" alt="Recent Article 0">
-</a><br>
+### Latest on Medium
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<!-- Recent article 1 -->
-<a href="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/1" target="_blank" rel="noopener">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/1?cb=1" alt="Recent Article 1">
-</a><br>
-
-<!-- Recent article 2 -->
-<a href="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/2" target="_blank" rel="noopener">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/2?cb=2" alt="Recent Article 2">
-</a><br>
-
-<!-- Recent article 3 -->
-<a href="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/3" target="_blank" rel="noopener">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/3?cb=3" alt="Recent Article 3">
-</a><br>
-
-<!-- Recent article 4 -->
-<a href="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/4" target="_blank" rel="noopener">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/4?cb=4" alt="Recent Article 4">
-</a><br>
-
-<!-- Recent article 5 -->
-<a href="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/5" target="_blank" rel="noopener">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/5?cb=5" alt="Recent Article 5">
-</a><br>
-
-<!-- Recent article 6 -->
-<a href="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/6" target="_blank" rel="noopener">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/6?cb=6" alt="Recent Article 6">
-</a><br>
-
-<!-- Recent article 7 -->
-<a href="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/7" target="_blank" rel="noopener">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/7?cb=7" alt="Recent Article 7">
-</a><br>
-
-<!-- Recent article 8 -->
-<a href="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/8" target="_blank" rel="noopener">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/8?cb=8" alt="Recent Article 8">
-</a><br>
-
-<!-- Recent article 9 -->
-<a href="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/9" target="_blank" rel="noopener">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@stevenrim/9?cb=9" alt="Recent Article 9">
-</a><br>
 
 
 
