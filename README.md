@@ -9,7 +9,7 @@ explicit permission is illegal and strictly discouraged. Always follow legal gui
 authorization before conducting security assessments.
 ```
 ## 🌐 GRC Projects
-
+coming soon...
 
 
 
