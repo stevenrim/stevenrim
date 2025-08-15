@@ -15,7 +15,7 @@ coming soon...
 
 
 
-## 💻 Recent Cybersecurity Projects & Articles on Medium
+## 👨‍💻 Recent Cybersecurity Projects & Articles on Medium
 <!-- BLOG-POST-LIST:START -->
 - [Back to Kali: Securing Reverse Shell Access](https://medium.com/@stevenrim/back-to-kali-securing-reverse-shell-access-563f2793cc07?source=rss-d99c2dfdaa46------2)
 - [SOC Automation with Splunk, Active Directory &amp; SOAR](https://medium.com/@stevenrim/soc-automation-with-splunk-active-directory-soar-b121465b08b9?source=rss-d99c2dfdaa46------2)
