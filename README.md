@@ -16,7 +16,8 @@ coming soon...
 
 
 ## 👨‍💻 Recent Cybersecurity Projects on Medium
-<!-- MEDIUM-LIST:START --> … <!-- MEDIUM-LIST:END --> 
+<!-- MEDIUM-LIST:START --> 
+<!-- MEDIUM-LIST:END --> 
 
 <!-- BLOG-POST-LIST:START -->
 - [Back to Kali: Securing Reverse Shell Access](https://medium.com/@stevenrim/back-to-kali-securing-reverse-shell-access-563f2793cc07?source=rss-d99c2dfdaa46------2)
