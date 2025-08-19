@@ -16,8 +16,9 @@ coming soon...
 
 
 ## 👨‍💻 Recent Cybersecurity Projects on Medium
-<!-- MEDIUM-LIST:START -->
-<!-- MEDIUM-LIST:END -->
+<!-- MEDIUM-LIST:START --> … <!-- MEDIUM-LIST:END --> 
+
+<!-- BLOG-POST-LIST:START --> … <!-- BLOG-POST-LIST:END --> 
 
 - [See More...](https://medium.com/@stevenrim)
 
