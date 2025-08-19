@@ -1,35 +1,68 @@
-name: Update README with Medium thumbnails+titles
+name: Update README (Medium thumbnails + list)
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '0 */12 * * *'   # every 12 hours (UTC)
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  medium-list:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
 
-      - uses: actions/setup-python@v5
+      # Optional: log warnings if markers are missing (doesn't fail the job)
+      - name: Check README markers
+        run: |
+          if ! grep -q "<!-- MEDIUM-LIST:START -->" README.md; then
+            echo "::warning::README missing MEDIUM-LIST markers. Add:"
+            echo "<!-- MEDIUM-LIST:START -->"
+            echo "<!-- MEDIUM-LIST:END -->"
+          fi
+          if ! grep -q "<!-- BLOG-POST-LIST:START -->" README.md; then
+            echo "::warning::README missing BLOG-POST-LIST markers. Add:"
+            echo "<!-- BLOG-POST-LIST:START -->"
+            echo "<!-- BLOG-POST-LIST:END -->"
+          fi
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
-      - name: Install dependencies
+      - name: Install Python deps
         run: pip install feedparser
 
-      - name: Build Medium list section
+      - name: Build Medium thumbnails + titles
         run: python scripts/update_medium_thumbs.py
+        # Note: script reads FEED_URL from its own constant; no env needed.
 
-      - name: Commit changes (if any)
+      - name: Commit thumbnail section if changed
         run: |
-          if ! git diff --quiet; then
+          if [[ -n "$(git status --porcelain)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add README.md
             git commit -m "chore: update Medium thumbnails + titles"
             git push
+          else
+            echo "No changes from thumbnails step."
           fi
+
+      - name: Update latest Medium posts (bullet list)
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@stevenrim"
+          max_post_count: 10            # Medium RSS exposes ~10 items
+          template: "- [$title]($url) — $date"
+          date_format: "yyyy-MM-dd"
+          commit_message: "chore: update latest Medium posts"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
