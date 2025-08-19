@@ -11,15 +11,17 @@ permissions:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    env:
+      PYTHONUNBUFFERED: "1"   # flush script prints immediately
+      FEED_URL: "https://medium.com/feed/@stevenrim"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Ensure README markers exist
+      - name: Verify README markers
         run: |
-          set -e
           grep -Eq "<!--\s*MEDIUM-OG:START\s*-->" README.md || (echo "Missing <!-- MEDIUM-OG:START -->" && exit 1)
-          grep -Eq "<!--\s*MEDIUM-OG:END\s*-->" README.md || (echo "Missing <!-- MEDIUM-OG:END -->" && exit 1)
+          grep -Eq "<!--\s*MEDIUM-OG:END\s*-->" README.md   || (echo "Missing <!-- MEDIUM-OG:END -->" && exit 1)
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -27,11 +29,9 @@ jobs:
           python-version: '3.x'
 
       - name: Install deps
-        run: pip install feedparser requests
+        run: pip install --upgrade pip feedparser requests
 
-      - name: Build Medium OG thumbnails block
-        env:
-          FEED_URL: "https://medium.com/feed/@stevenrim"
+      - name: Build section
         run: python scripts/update_medium_thumbs_og.py
 
       - name: Commit changes (if any)
