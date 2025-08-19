@@ -1,0 +1,38 @@
+name: Update README with Medium thumbnails (OpenGraph)
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'   # every 12 hours (UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install feedparser requests
+
+      - name: Build Medium OG thumbnails block
+        run: python scripts/update_medium_thumbs_og.py
+
+      - name: Commit changes (if any)
+        run: |
+          if ! git diff --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: update Medium thumbnails (OpenGraph)"
+            git push
+          else
+            echo "No README changes."
