@@ -13,7 +13,7 @@ coming soon...
 - InfoSec Management System
 - GRC Sentinel AI
 
-## 👨‍💻 Recent Cybersecurity Projects on Medium
+## 👨‍💻 Recent Cybersecurity Projects and Articles on Medium
 <!-- MEDIUM:START -->
 <!-- MEDIUM:END -->
 
