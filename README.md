@@ -14,8 +14,7 @@ coming soon...
 - GRC Sentinel AI
 
 ## 👨‍💻 Recent Cybersecurity Projects and Articles on Medium
-<!-- MEDIUM:START -->
-<!-- MEDIUM:END -->
+<!-- MEDIUM:START -->- [${title}](${link}) — ${date}- [${title}](${link}) — ${date}- [${title}](${link}) — ${date}- [${title}](${link}) — ${date}- [${title}](${link}) — ${date}<!-- MEDIUM:END -->
 
 
 
