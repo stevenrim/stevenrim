@@ -21,7 +21,7 @@ jobs:
           feed_list: "https://medium.com/feed/@stevenrim"
           readme_path: "README.md"
           comment_tag_name: "MEDIUM"
-          template: "- [$title]($url)"        
+          template: "<li><a href=\"$url\">$title</a></li>"     
           max_post_count: 10
           gh_token: "${{ secrets.GITHUB_TOKEN }}"
           commit_message: "chore: update latest Medium posts"
