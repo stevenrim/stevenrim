@@ -25,7 +25,7 @@ coming soon...
 
 
 
-## 🌐 Git Repositories
+## 🌐 Repositories
 - [Threat Hunt & IR Repository](https://github.com/stevenrim/threathuntrepo/blob/main/README.md)
 - [Ducky Script Repository](https://github.com/stevenrim/duckyscripts/blob/main/README.md)
 
