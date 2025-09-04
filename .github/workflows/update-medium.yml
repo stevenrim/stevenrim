@@ -22,6 +22,6 @@ jobs:
           readme_path: "README.md"
           comment_tag_name: "MEDIUM"
           template: "<li><a href=\"$url\">$title</a></li>"     
-          max_post_count: 10
+          max_post_count: 20
           gh_token: "${{ secrets.GITHUB_TOKEN }}"
           commit_message: "chore: update latest Medium posts"
