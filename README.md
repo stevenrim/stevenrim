@@ -14,9 +14,9 @@ authorization before conducting security assessments.
 ## 👨‍💻 Recent Cybersecurity Projects and Articles on Medium
 <ul>
 <!-- MEDIUM:START --><li><a href="https://medium.com/@stevenrim/back-to-kali-securing-reverse-shell-access-563f2793cc07?source=rss-d99c2dfdaa46------2">Back to Kali: Securing Reverse Shell Access</a></li><li><a href="https://medium.com/@stevenrim/soc-automation-with-splunk-active-directory-soar-b121465b08b9?source=rss-d99c2dfdaa46------2">SOC Automation with Splunk, Active Directory &amp; SOAR</a></li><li><a href="https://medium.com/@stevenrim/ogres-have-layers-networks-have-layers-6a3f36510f57?source=rss-d99c2dfdaa46------2">Ogres Have Layers, Networks Have Layers…</a></li><li><a href="https://medium.com/@stevenrim/threat-hunt-report-sudden-network-slowdowns-a10730cda525?source=rss-d99c2dfdaa46------2">Threat Hunt Report: Sudden Network Slowdowns</a></li><li><a href="https://medium.com/@stevenrim/kerberoasting-in-active-directory-3931cb37e322?source=rss-d99c2dfdaa46------2">Kerberoasting in Active Directory</a></li><li><a href="https://medium.com/@stevenrim/threat-hunt-report-public-exposure-715f1befb669?source=rss-d99c2dfdaa46------2">Threat Hunt Report: Public Exposure</a></li><li><a href="https://medium.com/@stevenrim/generating-and-analyzing-endpoint-activity-logs-in-mde-e7535699ab15?source=rss-d99c2dfdaa46------2">Automating EDR with Defender for Endpoint</a></li><li><a href="https://medium.com/@stevenrim/powershell-automation-for-disa-stig-compliance-and-hardening-6515d055d9ef?source=rss-d99c2dfdaa46------2">PowerShell Automation for DISA STIG Compliance and Hardening</a></li><li><a href="https://medium.com/@stevenrim/vulnerability-management-program-implementation-0fad4462c688?source=rss-d99c2dfdaa46------2">Vulnerability Management Program Implementation</a></li><li><a href="https://medium.com/@stevenrim/windows-10-vulnerabilities-scan-script-secure-9e15590bdd27?source=rss-d99c2dfdaa46------2">Windows 10 Vulnerabilities: Scan, Script &amp; Secure</a></li><!-- MEDIUM:END -->
+ 
+  - [Additional Projects and Articles on Medium](https://medium.com/@stevenrim)
 </ul>
-
-
 
 
 
