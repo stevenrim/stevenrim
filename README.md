@@ -8,7 +8,7 @@ legal regulations, and responsible disclosure practices. Unauthorized use of the
 explicit permission is illegal and strictly discouraged. Always follow legal guidelines and obtain proper
 authorization before conducting security assessments.
 ```
-## 📊 GRC Projects
+## 📊 IT & Security Management System (ISMS) Projects
 - coming soon...
 
 ## 👨‍💻 Recent Cybersecurity Projects and Articles on Medium
