@@ -9,7 +9,7 @@ explicit permission is illegal and strictly discouraged. Always follow legal gui
 authorization before conducting security assessments.
 ```
 ## 📊 IT & Security Management System (ISMS) Projects
-- coming soon...
+- DIY ISMS: Designing and Implementing ISMS for SMB's (coming soon...)
 
 ## 👨‍💻 Recent Cybersecurity Projects and Articles on Medium
 <ul>
