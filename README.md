@@ -8,8 +8,6 @@ legal regulations, and responsible disclosure practices. Unauthorized use of the
 explicit permission is illegal and strictly discouraged. Always follow legal guidelines and obtain proper
 authorization before conducting security assessments.
 ```
-## 📊 IT & Security Management System (ISMS) Projects
-- ISMS Program: Designing and Implementing for SMB's (coming soon...)
 
 ## 👨‍💻 Recent Cybersecurity Projects and Articles on Medium
 <ul>
