@@ -52,7 +52,6 @@ authorization before conducting security assessments.
 </table>
 
 ## 🧠 In Progress Certifications & Education
-<a href=""><img src="https://img.shields.io/badge/MS CYBERSECURITY-gold"/></a>
 <a href=""><img src="https://img.shields.io/badge/CSA CCSK-blue"/></a>
 <a href=""><img src="https://img.shields.io/badge/CSA CCZT-green"/></a>
 <a href=""><img src="https://img.shields.io/badge/CSA TAISE-orange"/></a>
